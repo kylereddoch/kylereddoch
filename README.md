@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on Swift/Swift UI projects (hit me up below)
 
-- 📝 I regularly write over on my website at [kylereddoch.com](https://kylereddoch.com)
+- 📝 I regularly write over on my website at [kylereddoch.com](https://kylereddoch.me)
 
 - 💬 Ask me about **Apple Tech** 
 

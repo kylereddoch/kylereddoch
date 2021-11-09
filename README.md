@@ -1,8 +1,6 @@
 ## Hello there 👋, I'm Kyle!
 
-----
-
-### An aspiring Swift/Swift UI  Developer
+<center>### An aspiring Swift/Swift UI  Developer</center>
 
 <!--- 🔭 I’m currently working on Swift/Swift UI from [Hacking with Swift](https://www.hackingwithswift.com)-->
 

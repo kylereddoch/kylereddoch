@@ -1,6 +1,6 @@
-## Hello there 👋, I'm Kyle!
+# <div align="center">Hello there 👋, I'm Kyle!</div>
 
-### <div align="center">An aspiring Swift/Swift UI  Developer</div>
+## <div align="center">An aspiring Swift/Swift UI  Developer</div>
 
 <!--- 🔭 I’m currently working on Swift/Swift UI from [Hacking with Swift](https://www.hackingwithswift.com)-->
 

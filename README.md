@@ -4,6 +4,8 @@
 
 <!--- 🔭 I’m currently working on Swift/Swift UI from [Hacking with Swift](https://www.hackingwithswift.com)-->
 
+- 📓 I am currently enrolled at SNHU working on my BS Information Technologies w/ conc in Software Development
+
 - 🌱 I’m currently learning Swift/Swift UI from [Hacking with Swift](https://www.hackingwithswift.com)
 
 - 👯 I’m looking to collaborate on Swift/Swift UI projects (hit me up below)

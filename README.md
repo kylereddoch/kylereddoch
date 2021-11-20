@@ -1,10 +1,12 @@
 # <div align="center" style="border:none;">Hello 👋, I'm Kyle</div>
 ## <div align="center" style="border:none;">An aspiring Swift/Swift UI  Developer</div>
 
+<div align="center">
 [![Website](https://img.shields.io/website?label=kylereddoch.me&style=for-the-badge&url=https%3A%2F%2Fkylereddoch.me)](https://kylereddoch.me)
 [![wakatime](https://wakatime.com/badge/user/10619014-9413-4a5b-a3df-2d3892b8a73d.svg?style=for-the-badge)](https://wakatime.com/@10619014-9413-4a5b-a3df-2d3892b8a73d)
 [![Twitter Follow](https://img.shields.io/twitter/follow/winphankyle?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkylereddoch&screen_name=winphankyle)
 [![Instagram Follow](https://img.shields.io/badge/kyle.reddoch-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kyle.reddoch)
+</div>
 
 
 - 📓 I am currently enrolled at SNHU working on my BS Information Technologies w/ conc in Software Development

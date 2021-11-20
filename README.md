@@ -152,7 +152,7 @@ HTML                     1 repo              ███████████�
 ---
 
 ### 🙏🏼 Support:
-<p><a href="https://www.buymeacoffee.com/kylereddoch"><img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kylereddoch&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a> <a href="sms:+18064181016"><img align="left" src="https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white" alt="kylereddoch" /></a></p>
+<p><a href="https://www.buymeacoffee.com/kylereddoch"><img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kylereddoch&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a></p>
 
 <br />
 <br />

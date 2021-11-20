@@ -58,7 +58,7 @@
 <details>
 <summary>📊 GitHub Stats:</summary>
 
-<p><img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=kylereddoch&show_icons=true&locale=en" alt="kylereddoch" /></p>
+<p><img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=kylereddoch&show_icons=true&hide_border=true&locale=en" alt="kylereddoch" /></p>
 <p><img src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs?username=kylereddoch&show_icons=true&hide_border=true&locale=en&layout=compact" alt="kylereddoch" /></p>
 <p><img src="https://github-readme-stats-sigma-rouge.vercel.app/api/wakatime?username=kylereddoch&show_icons=true&hide_border=true&locale=en&layout=compact" alt="kylereddoch" /></p>
 

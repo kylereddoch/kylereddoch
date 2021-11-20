@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: 302444e7-eb0f-469c-b506-f3e49064e91d
+          GH_TOKEN: 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
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"

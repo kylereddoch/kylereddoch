@@ -1,4 +1,4 @@
-name: Dev Metrics Waka
+name: Waka Readme
 
 on:
   schedule:

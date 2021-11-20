@@ -84,6 +84,10 @@
 ### 🙏🏼 Support:
 <p><a href="https://www.buymeacoffee.com/kylereddoch"><img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kylereddoch&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a> <a href="sms:+18064181016"><img align="left" src="https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white" alt="kylereddoch" /></a></p>
 
+<br />
+<br />
+<br />
+
 _NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories._
 
 [website]: https://kylereddoch.me

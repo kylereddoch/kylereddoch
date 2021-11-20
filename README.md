@@ -145,7 +145,9 @@ HTML                     1 repo              ███████████�
 <details>
 <summary>🎯 Recent Activity</summary>
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 </details>
 

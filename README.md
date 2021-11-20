@@ -1,10 +1,10 @@
 # <div align="center" style="border:none;">Hello 👋, I'm Kyle</div>
 ## <div align="center" style="border:none;">An aspiring Swift/Swift UI  Developer</div>
 
-[<img align="center" src="https://img.shields.io/website?label=kylereddoch.me&style=for-the-badge&url=https%3A%2F%2Fkylereddoch.me" />](https://kylereddoch.me)
-[<img align="center" src="https://wakatime.com/badge/user/10619014-9413-4a5b-a3df-2d3892b8a73d.svg?style=for-the-badge" />](https://wakatime.com/@10619014-9413-4a5b-a3df-2d3892b8a73d)
-[<img align="center" src="https://img.shields.io/twitter/follow/winphankyle?color=1DA1F2&logo=twitter&style=for-the-badge" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkylereddoch&screen_name=winphankyle)
-[<img align="center" src="https://img.shields.io/badge/kyle.reddoch-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://instagram.com/kyle.reddoch)
+[<img align="center" src="https://img.shields.io/website?label=kylereddoch.me&style=for-the-badge&url=https%3A%2F%2Fkylereddoch.me" />][website]
+[<img align="center" src="https://wakatime.com/badge/user/10619014-9413-4a5b-a3df-2d3892b8a73d.svg?style=for-the-badge" />][wakatime]
+[<img align="center" src="https://img.shields.io/twitter/follow/winphankyle?color=1DA1F2&logo=twitter&style=for-the-badge" />][twitter]
+[<img align="center" src="https://img.shields.io/badge/kyle.reddoch-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
 
 - 📓 I am currently enrolled at SNHU working on my BS Information Technologies w/ conc in Software Development
@@ -164,6 +164,7 @@ _NOTE: Top languages does not indicate my skill level or anything like that. It 
 [twitter]: https://twitter.com/winphankyle
 [instagram]: https://instagram.com/kyle.reddoch
 [linkedin]: https://linkedin.com/in/kylereddoch
+[wakatime]: https://wakatime.com/@10619014-9413-4a5b-a3df-2d3892b8a73d
 [telegram]: https://t.me/kylereddoch
 [email]: kylereddoch@me.com
 [hwscourses]: https://www.hackingwithswift.com

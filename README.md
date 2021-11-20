@@ -20,6 +20,9 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Review: Grid Studio frames beautiful Apple Devices for you to hang](https://kylereddoch.me/2021/11/18/review-gridstudio-frames-apple-devices.html)
+- [100 Days of Swift…The Journey Begins!](https://kylereddoch.me/2021/11/12/100-days-swift-journey-begins.html)
+- [Welcome to the beginning…](https://kylereddoch.me/2021/11/08/welcome-to-beginning.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

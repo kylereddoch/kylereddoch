@@ -12,7 +12,7 @@
 - 🤝 I’m looking to collaborate on Swift/Swift UI projects
 - 📝 I regularly write articles on [https://kylereddoch.me][website]
 - 💬 Ask me about **Apple Tech, Swift/Swift UI, Front End Development** 
-- 📫 How to reach me **[email]**
+- 📫 How to reach me **[kylereddoch@me.com][email]**
 
 ### Connect with me:
 
@@ -40,6 +40,7 @@
 ---
 
 ### 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -49,28 +50,34 @@
 
 <details>
 	<summary>📊 GitHub Stats:</summary>
+
 	<p><img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=kylereddoch&show_icons=true&locale=en" alt="kylereddoch" /></p>
 	<p><img src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs?username=kylereddoch&show_icons=true&hide_border=true&locale=en&layout=compact" alt="kylereddoch" /></p>
 	<p><img src="https://github-readme-stats-sigma-rouge.vercel.app/api/wakatime?username=kylereddoch&show_icons=true&hide_border=true&locale=en&layout=compact" alt="kylereddoch" /></p>
+
 </details>
 
 <details>
 	<summary>⚒ Dev Stats</summary>
+
 	<!--START_SECTION:waka-->
 	<!--END_SECTION:waka-->
+
 </details>
 
 <details>
 	<summary>🎯 Recent Activity</summary>
+
 	<!--START_SECTION:activity-->
+
 </details>
 
 ---
 
 ### 🙏🏼 Support:
-<p><a href="https://www.buymeacoffee.com/kylereddoch"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="kylereddoch" /></a> <a href="sms:+18064181016"><img align="left" src="https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white" alt="kylereddoch" /></a></p>
+<p><a href="https://www.buymeacoffee.com/kylereddoch"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kylereddoch&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a> <a href="sms:+18064181016"><img align="left" src="https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white" alt="kylereddoch" /></a></p>
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
+_NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories._
 
 [website]: https://kylereddoch.me
 [twitter]: https://twitter.com/winphankyle

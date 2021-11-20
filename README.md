@@ -22,6 +22,7 @@
 [<img align="left" alt="Kyle Reddoch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kyle Reddoch | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" />][telegram]
 
+<br />
 
 ### Languages and Tools
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
@@ -36,6 +37,8 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="ifttt" width="40" height="40"/>
+
+<br />
 
 ---
 

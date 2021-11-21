@@ -14,6 +14,9 @@
 - 💬 Ask me about **Apple Tech, Swift/Swift UI, Front End Development** 
 - 📫 How to reach me **[kylereddoch@me.com][email]**
 
+
+Do you like my projects or have they made a difference in your life? [Nominate me to GitHub Stars :star2:][githubstars]
+
 ### Connect with me:
 
 [<img align="left" alt="KyleReddoch.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -179,3 +182,4 @@ _NOTE: Top languages does not indicate my skill level or anything like that. It 
 [telegram]: https://t.me/kylereddoch
 [email]: kylereddoch@me.com
 [hwscourses]: https://www.hackingwithswift.com
+[githubstars]: https://stars.github.com/nominate/

@@ -6,7 +6,6 @@
 [<img align="center" src="https://img.shields.io/twitter/follow/winphankyle?color=1DA1F2&logo=twitter&style=for-the-badge" />][twitter]
 [<img align="center" src="https://img.shields.io/badge/kyle.reddoch-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
-
 - 📓 I am currently enrolled at SNHU working on my BS Information Technologies w/ conc in Software Development
 - 🌱 I’m currently learning **Swift, SwiftUI** from [Hacking with Swift][hwscourses]
 - 🤝 I’m looking to collaborate on Swift/Swift UI projects
@@ -14,10 +13,9 @@
 - 💬 Ask me about **Apple Tech, Swift/Swift UI, Front End Development** 
 - 📫 How to reach me **[kylereddoch@me.com][email]**
 
-
 Do you like my projects or have they made a difference in your life? [Nominate me to GitHub Stars :star2:][githubstars]
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="KyleReddoch.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kyle Reddoch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
@@ -28,6 +26,7 @@ Do you like my projects or have they made a difference in your life? [Nominate m
 <br />
 
 ### Languages and Tools
+
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>

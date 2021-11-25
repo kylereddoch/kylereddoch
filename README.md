@@ -83,7 +83,7 @@ Do you like my projects or have they made a difference in your life? [Nominate m
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 

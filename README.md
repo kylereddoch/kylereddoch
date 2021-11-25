@@ -13,7 +13,10 @@
 - 💬 Ask me about **Apple Tech, Swift/Swift UI, Front End Development** 
 - 📫 How to reach me **[kylereddoch@me.com][email]**
 
-Do you like my projects or have they made a difference in your life? [Nominate me to GitHub Stars :star2:][githubstars]
+Do you like my projects or have they made a difference in your life?
+
+- [Nominate me to GitHub Stars :star2:][githubstars]
+- [Sponsor me on GitHub :heart:][githubsponsor]
 
 ### Connect with me
 
@@ -177,7 +180,6 @@ Last Updated: Thursday, November 25th, 2021, 5:18:54 PM
 
 <br />
 <br />
-<br />
 
 _NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories._
 
@@ -190,3 +192,4 @@ _NOTE: Top languages does not indicate my skill level or anything like that. It 
 [email]: kylereddoch@me.com
 [hwscourses]: https://www.hackingwithswift.com
 [githubstars]: https://stars.github.com/nominate/
+[githubsponsor]: https://github.com/sponsors/kylereddoch

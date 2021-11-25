@@ -1,0 +1,15 @@
+name: Update gist with RescueTime stats
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: joshghent/rescue-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 00035b22657d3c67fc8b5ab447bfaf8a
+          RESCUETIME_API_KEY: B63yvqIt9EPCveW7gO7me3Lpl870YC4vBMp8C3DR

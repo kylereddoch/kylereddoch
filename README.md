@@ -172,7 +172,8 @@ Last Updated: Thursday, November 25th, 2021, 6:15:34 AM
 ---
 
 ### 🙏🏼 Support:
-<p><a href="https://www.buymeacoffee.com/kylereddoch"><img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kylereddoch&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a></p>
+<a href="https://www.buymeacoffee.com/kylereddoch" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href='https://ko-fi.com/S6S374TCV' target='_blank'><img align="left" height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <br />
 <br />

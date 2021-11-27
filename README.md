@@ -80,7 +80,7 @@ Do you like my projects or have they made a difference in your life?
 
 > 🏆 220 Contributions in the Year 2021
  > 
-> 📦 49.1 kB Used in GitHub's Storage 
+> 📦 49.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 

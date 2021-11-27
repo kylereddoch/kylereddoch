@@ -74,11 +74,11 @@ Do you like my projects or have they made a difference in your life?
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2617%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2611%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 227 Contributions in the Year 2021
+> 🏆 239 Contributions in the Year 2021
  > 
 > 📦 49.2 kB Used in GitHub's Storage 
  > 
@@ -91,21 +91,21 @@ Do you like my projects or have they made a difference in your life?
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
+🌞 Morning    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
 🌆 Daytime    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-🌃 Evening    82 commits     ████████████░░░░░░░░░░░░░   47.95% 
+🌃 Evening    75 commits     ███████████░░░░░░░░░░░░░░   43.86% 
 🌙 Night      67 commits     █████████░░░░░░░░░░░░░░░░   39.18%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
+Monday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
 Tuesday      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 Wednesday    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
 Thursday     32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
 Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Saturday     44 commits     ██████░░░░░░░░░░░░░░░░░░░   25.73% 
+Saturday     51 commits     ███████░░░░░░░░░░░░░░░░░░   29.82% 
 Sunday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36%
 
 ```

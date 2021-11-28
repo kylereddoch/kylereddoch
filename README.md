@@ -159,15 +159,15 @@ HTML                     1 repo              ██████░░░░░�
 <summary>🎯 Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rob-murray/jekyll-twitter-plugin](https://github.com/rob-murray/jekyll-twitter-plugin)
-2. ⭐ Starred [willwashburn/rescuetime.js](https://github.com/willwashburn/rescuetime.js)
-3. 🎉 Merged PR [#1](https://github.com/kylereddoch/kylereddoch.github.io/pull/1) in [kylereddoch/kylereddoch.github.io](https://github.com/kylereddoch/kylereddoch.github.io)
-4. 💪 Opened PR [#1](https://github.com/kylereddoch/kylereddoch.github.io/pull/1) in [kylereddoch/kylereddoch.github.io](https://github.com/kylereddoch/kylereddoch.github.io)
-5. ⭐ Starred [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator)
+1. ⭐ Starred [Borrus-sudo/awesome-stack](https://github.com/Borrus-sudo/awesome-stack)
+2. ⭐ Starred [rob-murray/jekyll-twitter-plugin](https://github.com/rob-murray/jekyll-twitter-plugin)
+3. ⭐ Starred [willwashburn/rescuetime.js](https://github.com/willwashburn/rescuetime.js)
+4. 🎉 Merged PR [#1](https://github.com/kylereddoch/kylereddoch.github.io/pull/1) in [kylereddoch/kylereddoch.github.io](https://github.com/kylereddoch/kylereddoch.github.io)
+5. 💪 Opened PR [#1](https://github.com/kylereddoch/kylereddoch.github.io/pull/1) in [kylereddoch/kylereddoch.github.io](https://github.com/kylereddoch/kylereddoch.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 27th, 2021, 11:19:12 PM
+Last Updated: Sunday, November 28th, 2021, 12:44:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

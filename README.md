@@ -85,7 +85,7 @@ Do you like my projects or have they made a difference in your life?
 
 > 🏆 286 Contributions in the Year 2021
  > 
-> 📦 50.0 kB Used in GitHub's Storage 
+> 📦 49.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -151,7 +151,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
 </details>

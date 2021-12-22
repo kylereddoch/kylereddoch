@@ -156,15 +156,15 @@ JavaScript               1 repo              █████░░░░░░�
 <summary>🎯 Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FifiTheBulldog/scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher)
-2. 📔 Created new repository [kylereddoch/scriptable](https://github.com/kylereddoch/scriptable)
+1. ⭐ Starred [0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics)
+2. ⭐ Starred [FifiTheBulldog/scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher)
 3. ⭐ Starred [Borrus-sudo/awesome-stack](https://github.com/Borrus-sudo/awesome-stack)
 4. ⭐ Starred [rob-murray/jekyll-twitter-plugin](https://github.com/rob-murray/jekyll-twitter-plugin)
 5. 🎉 Merged PR [#1](https://github.com/kylereddoch/kylereddoch.github.io/pull/1) in [kylereddoch/kylereddoch.github.io](https://github.com/kylereddoch/kylereddoch.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 22nd, 2021, 6:15:44 PM
+Last Updated: Wednesday, December 22nd, 2021, 7:10:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -52,6 +52,7 @@ Do you like my projects or have they made a difference in your life?
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Review: Working Copy, A Git Client for iPhone and iPad](https://kylereddoch.me/2021/12/23/review-working-copy-git-client.html)
 - [WakaStats - A Scriptable Script for Your WakaTime Data](https://kylereddoch.me/2021/12/12/wakastats-scriptable-script.html)
 - [Review: Grid Studio frames beautiful Apple Devices for you to hang](https://kylereddoch.me/2021/11/18/review-gridstudio-frames-apple-devices.html)
 - [100 Days of Swift…The Journey Begins!](https://kylereddoch.me/2021/11/12/100-days-swift-journey-begins.html)

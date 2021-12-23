@@ -76,13 +76,15 @@ Do you like my projects or have they made a difference in your life?
 <summary>⚒ Dev Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 292 Contributions in the Year 2021
+> 🏆 294 Contributions in the Year 2021
  > 
 > 📦 59.0 kB Used in GitHub's Storage 
  > 
@@ -121,16 +123,20 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 hrs 5 mins        ████████████████████████░   96.25% 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+Ruby                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 15 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kylereddoch.github.io    4 hrs 15 mins       █████████████████████████   100.0% 
+scriptable               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 

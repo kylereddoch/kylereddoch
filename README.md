@@ -86,7 +86,7 @@ Do you like my projects or have they made a difference in your life?
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 59.5 kB Used in GitHub's Storage 
+> 📦 58.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 

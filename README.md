@@ -52,11 +52,11 @@ Do you like my projects or have they made a difference in your life?
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Review: Forte - The Better Habit Tracker](https://kylereddoch.me/2022/01/24/review-forte-habit-tracker.html)
 - [Review: Working Copy, A Git Client for iPhone and iPad](https://kylereddoch.me/2021/12/23/review-working-copy-git-client.html)
 - [WakaStats - A Scriptable Script for Your WakaTime Data](https://kylereddoch.me/2021/12/12/wakastats-scriptable-script.html)
 - [Review: Grid Studio frames beautiful Apple Devices for you to hang](https://kylereddoch.me/2021/11/18/review-gridstudio-frames-apple-devices.html)
 - [100 Days of Swift…The Journey Begins!](https://kylereddoch.me/2021/11/12/100-days-swift-journey-begins.html)
-- [Welcome to the beginning…](https://kylereddoch.me/2021/11/08/welcome-to-beginning.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kylereddoch.me)

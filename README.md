@@ -76,6 +76,8 @@ Do you like my projects or have they made a difference in your life?
 <summary>⚒ Dev Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Thousand%20lines%20of%20code-blue)
@@ -121,16 +123,16 @@ Sunday       30 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-WakaStats.js             6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -146,7 +148,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 27/02/2022 06:11:06 UTC
+ Last Updated on 27/02/2022 10:09:45 UTC
 <!--END_SECTION:waka-->
 
 </details>

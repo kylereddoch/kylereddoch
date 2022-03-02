@@ -6,7 +6,7 @@
 [<img align="center" src="https://img.shields.io/twitter/follow/winphankyle?color=1DA1F2&logo=twitter&style=for-the-badge" />][twitter]
 [<img align="center" src="https://img.shields.io/badge/kyle.reddoch-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
-- 📓 I am currently enrolled at SNHU working on my BS Information Technologies w/ conc in Software Development
+- 📓 I am currently enrolled at SNHU working on my BS in Computer Science w/ conc in Software Engineering
 - 🌱 I’m currently learning **Swift, SwiftUI** from [Hacking with Swift][hwscourses]
 - 🤝 I’m looking to collaborate on Swift/Swift UI projects
 - 📝 I regularly write articles on [https://kylereddoch.me][website]

@@ -76,7 +76,9 @@ Do you like my projects or have they made a difference in your life?
 <summary>⚒ Dev Stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2026%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Thousand%20lines%20of%20code-blue)
 
@@ -84,7 +86,7 @@ Do you like my projects or have they made a difference in your life?
 
 > 🏆 14 Contributions in the Year 2022
  > 
-> 📦 64.3 kB Used in GitHub's Storage 
+> 📦 64.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -121,16 +123,18 @@ Sunday       30 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   26 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  26 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pythonProject            17 mins             ████████████████░░░░░░░░░   66.41% 
+pythonProjects           7 mins              ███████░░░░░░░░░░░░░░░░░░   27.68% 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.9%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      26 mins             █████████████████████████   100.0%
 
 ```
 
@@ -147,7 +151,7 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 02/03/2022 06:12:55 UTC
+ Last Updated on 02/03/2022 08:12:13 UTC
 <!--END_SECTION:waka-->
 
 </details>

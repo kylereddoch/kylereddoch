@@ -76,7 +76,7 @@ Do you like my projects or have they made a difference in your life?
 <summary>⚒ Dev Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -123,18 +123,16 @@ Sunday       30 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   26 mins             █████████████████████████   100.0%
+Python                   7 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-PyCharm                  26 mins             █████████████████████████   100.0%
+PyCharm                  7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-pythonProject            17 mins             ████████████████░░░░░░░░░   66.41% 
-pythonProjects           7 mins              ███████░░░░░░░░░░░░░░░░░░   27.68% 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.9%
+pythonProjects           7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.0%
+Mac                      7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -151,7 +149,7 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 03/03/2022 02:08:52 UTC
+ Last Updated on 03/03/2022 04:11:31 UTC
 <!--END_SECTION:waka-->
 
 </details>

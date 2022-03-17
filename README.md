@@ -77,8 +77,6 @@ Do you like my projects or have they made a difference in your life?
 <summary>⚒ Dev Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Thousand%20lines%20of%20code-blue)
@@ -87,7 +85,7 @@ Do you like my projects or have they made a difference in your life?
 
 > 🏆 36 Contributions in the Year 2022
  > 
-> 📦 64.5 kB Used in GitHub's Storage 
+> 📦 64.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -154,7 +152,7 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 17/03/2022 04:12:14 UTC
+ Last Updated on 17/03/2022 05:09:50 UTC
 <!--END_SECTION:waka-->
 
 </details>

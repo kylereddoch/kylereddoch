@@ -77,7 +77,7 @@ Do you like my projects or have they made a difference in your life?
 <summary>⚒ Dev Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -87,7 +87,7 @@ Do you like my projects or have they made a difference in your life?
 
 > 🏆 54 Contributions in the Year 2022
  > 
-> 📦 64.7 kB Used in GitHub's Storage 
+> 📦 64.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -124,20 +124,20 @@ Sunday       33 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   4 hrs 33 mins       ███████████████████████░░   95.44% 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.54% 
+Python                   4 hrs 28 mins       ███████████████████████░░   95.37% 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-PyCharm                  4 hrs 46 mins       █████████████████████████   100.0%
+PyCharm                  4 hrs 41 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Space Attack             2 hrs 58 mins       ███████████████░░░░░░░░░░   62.23% 
-pythonProjects           1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   37.73% 
+Space Attack             2 hrs 58 mins       ███████████████░░░░░░░░░░   63.27% 
+pythonProjects           1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   36.69% 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
-Mac                      4 hrs 46 mins       █████████████████████████   100.0%
+Mac                      4 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
@@ -154,7 +154,7 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 01/04/2022 03:39:54 UTC
+ Last Updated on 01/04/2022 05:09:21 UTC
 <!--END_SECTION:waka-->
 
 </details>

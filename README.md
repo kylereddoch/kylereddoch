@@ -1,5 +1,5 @@
 # <div align="center" style="border:none;">Hello 👋, I'm Kyle</div>
-## <div align="center" style="border:none;">An aspiring Swift/Swift UI  Developer</div>
+## <div align="center" style="border:none;">Developer. Software Nerd.</div>
 
 [<img align="center" src="https://img.shields.io/website?label=kylereddoch.me&style=for-the-badge&url=https%3A%2F%2Fkylereddoch.me" />][website]
 [<img align="center" src="https://wakatime.com/badge/user/10619014-9413-4a5b-a3df-2d3892b8a73d.svg?style=for-the-badge" />][wakatime]

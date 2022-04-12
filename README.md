@@ -77,6 +77,8 @@ Do you like my projects or have they made a difference in your life?
 <summary>⚒ Dev Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2018%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
@@ -122,19 +124,16 @@ Sunday       33 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   3 hrs 28 mins       ████████████████████████░   97.34% 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+Python                   54 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-PyCharm                  3 hrs 34 mins       █████████████████████████   100.0%
+PyCharm                  54 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-pythonProjects           2 hrs 25 mins       █████████████████░░░░░░░░   67.62% 
-SpaceAttack              1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   32.38%
+pythonProjects           54 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 34 mins       █████████████████████████   100.0%
+Mac                      54 mins             █████████████████████████   100.0%
 
 ```
 
@@ -151,7 +150,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 12/04/2022 05:10:23 UTC
+ Last Updated on 12/04/2022 06:12:43 UTC
 <!--END_SECTION:waka-->
 
 </details>

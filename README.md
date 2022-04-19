@@ -168,15 +168,15 @@ JavaScript               1 repo              ██░░░░░░░░░�
 <summary>🎯 Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Textualize/rich-cli](https://github.com/Textualize/rich-cli)
-2. 📔 Created new repository [kylereddoch/Python-IP-Checker](https://github.com/kylereddoch/Python-IP-Checker)
-3. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
-4. 📔 Created new repository [kylereddoch/PasswordGenerator](https://github.com/kylereddoch/PasswordGenerator)
-5. ⭐ Starred [python-engineer/python-task-automation](https://github.com/python-engineer/python-task-automation)
+1. ⭐ Starred [YoussefRaafatNasry/portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
+2. ⭐ Starred [streetturtle/jekyll-cv-crafter](https://github.com/streetturtle/jekyll-cv-crafter)
+3. ⭐ Starred [Textualize/rich-cli](https://github.com/Textualize/rich-cli)
+4. 📔 Created new repository [kylereddoch/Python-IP-Checker](https://github.com/kylereddoch/Python-IP-Checker)
+5. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 19th, 2022, 3:21:05 AM
+Last Updated: Tuesday, April 19th, 2022, 4:30:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

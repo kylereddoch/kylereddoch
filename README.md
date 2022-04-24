@@ -169,15 +169,15 @@ JavaScript               1 repo              ██░░░░░░░░░�
 <summary>🎯 Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sharu725/online-cv](https://github.com/sharu725/online-cv)
-2. ❗️ Opened issue [#6](https://github.com/streetturtle/jekyll-cv-crafter/issues/6) in [streetturtle/jekyll-cv-crafter](https://github.com/streetturtle/jekyll-cv-crafter)
-3. ⭐ Starred [YoussefRaafatNasry/portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
-4. ⭐ Starred [streetturtle/jekyll-cv-crafter](https://github.com/streetturtle/jekyll-cv-crafter)
-5. ⭐ Starred [Textualize/rich-cli](https://github.com/Textualize/rich-cli)
+1. 🔱 Forked [kylereddoch/online-cv](https://github.com/kylereddoch/online-cv) from [sharu725/online-cv](https://github.com/sharu725/online-cv)
+2. ⭐ Starred [sharu725/online-cv](https://github.com/sharu725/online-cv)
+3. ❗️ Opened issue [#6](https://github.com/streetturtle/jekyll-cv-crafter/issues/6) in [streetturtle/jekyll-cv-crafter](https://github.com/streetturtle/jekyll-cv-crafter)
+4. ⭐ Starred [YoussefRaafatNasry/portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
+5. ⭐ Starred [streetturtle/jekyll-cv-crafter](https://github.com/streetturtle/jekyll-cv-crafter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 24th, 2022, 10:13:39 PM
+Last Updated: Sunday, April 24th, 2022, 11:13:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

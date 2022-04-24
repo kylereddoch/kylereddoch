@@ -169,15 +169,15 @@ JavaScript               1 repo              ██░░░░░░░░░�
 <summary>🎯 Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [YoussefRaafatNasry/portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
-2. ⭐ Starred [streetturtle/jekyll-cv-crafter](https://github.com/streetturtle/jekyll-cv-crafter)
-3. ⭐ Starred [Textualize/rich-cli](https://github.com/Textualize/rich-cli)
-4. 📔 Created new repository [kylereddoch/Python-IP-Checker](https://github.com/kylereddoch/Python-IP-Checker)
-5. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
+1. ⭐ Starred [sharu725/online-cv](https://github.com/sharu725/online-cv)
+2. ❗️ Opened issue [#6](https://github.com/streetturtle/jekyll-cv-crafter/issues/6) in [streetturtle/jekyll-cv-crafter](https://github.com/streetturtle/jekyll-cv-crafter)
+3. ⭐ Starred [YoussefRaafatNasry/portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
+4. ⭐ Starred [streetturtle/jekyll-cv-crafter](https://github.com/streetturtle/jekyll-cv-crafter)
+5. ⭐ Starred [Textualize/rich-cli](https://github.com/Textualize/rich-cli)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 24th, 2022, 9:12:15 PM
+Last Updated: Sunday, April 24th, 2022, 10:13:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

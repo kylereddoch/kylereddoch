@@ -77,6 +77,8 @@ Do you like my projects or have they made a difference in your life?
 <summary>⚒ Dev Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2016%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
@@ -122,22 +124,16 @@ Sunday       45 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-YAML                     3 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.75% 
-HTML                     2 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   38.19% 
-Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
-SCSS                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 hrs 43 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kylereddoch.github.io    4 hrs 21 mins       ██████████████░░░░░░░░░░░   56.51% 
-online-cv                3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.3% 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 hrs 43 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -154,7 +150,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2022 05:26:13 UTC
+ Last Updated on 02/05/2022 07:11:27 UTC
 <!--END_SECTION:waka-->
 
 </details>

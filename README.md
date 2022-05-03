@@ -77,6 +77,8 @@ Do you like my projects or have they made a difference in your life?
 <summary>⚒ Dev Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
@@ -85,7 +87,7 @@ Do you like my projects or have they made a difference in your life?
 
 > 🏆 100 Contributions in the Year 2022
  > 
-> 📦 67.8 kB Used in GitHub's Storage 
+> 📦 67.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -122,16 +124,20 @@ Sunday       45 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Roff                     22 mins             ████████░░░░░░░░░░░░░░░░░   34.34% 
+Markdown                 18 mins             ███████░░░░░░░░░░░░░░░░░░   27.96% 
+Java                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   22.34% 
+GitIgnore file           9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 6 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Java-Projects            1 hr 6 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 6 mins         █████████████████████████   100.0%
 
 ```
 
@@ -148,7 +154,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2022 05:15:47 UTC
+ Last Updated on 03/05/2022 06:13:11 UTC
 <!--END_SECTION:waka-->
 
 </details>

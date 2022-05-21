@@ -77,7 +77,7 @@ Do you like my projects or have they made a difference in your life?
 <summary>⚒ Dev Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -155,7 +155,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2022 20:12:00 UTC
+ Last Updated on 21/05/2022 21:10:29 UTC
 <!--END_SECTION:waka-->
 
 </details>

@@ -163,7 +163,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 <summary>🎯 Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [raycast/script-commands](https://github.com/raycast/script-commands)
+1. ✔️ Closed issue [#3](https://github.com/kylereddoch/scriptable/issues/3) in [kylereddoch/scriptable](https://github.com/kylereddoch/scriptable)
 2. ⭐ Starred [muety/wakapi](https://github.com/muety/wakapi)
 3. ⭐ Starred [jperk224/IT-145](https://github.com/jperk224/IT-145)
 4. 🔱 Forked [kylereddoch/online-cv](https://github.com/kylereddoch/online-cv) from [sharu725/online-cv](https://github.com/sharu725/online-cv)
@@ -171,7 +171,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 1st, 2022, 7:12:56 PM
+Last Updated: Wednesday, June 1st, 2022, 8:16:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

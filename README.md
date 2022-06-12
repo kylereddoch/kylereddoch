@@ -79,23 +79,22 @@ Do you like my projects or have they made a difference in your life?
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 My GitHub data** 
 
-> 🏆 131 Contributions in the Year 2022
+```text
+🏆 131 contributions in 2022
+
+📦 68.3 kB used in GitHub's storage 
+
+📜 14 Public Repositories 
+
+🔑 0 Private Repositories  
  > 
-> 📦 68.3 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+**I'm a night 🦉** 
 
 ```text
 🌞 Morning    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
@@ -104,7 +103,7 @@ Do you like my projects or have they made a difference in your life?
 🌙 Night      47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm most productive on Saturday** 
 
 ```text
 Monday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.45% 
@@ -118,7 +117,7 @@ Sunday       53 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: America/Chicago
@@ -142,7 +141,7 @@ Mac                      2 hrs 11 mins       ███████████�
 
 ```
 
-**I Mostly Code in Python** 
+**💻 I mostly code in Python** 
 
 ```text
 Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
@@ -155,7 +154,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:09:45 UTC
+ Last Updated on 12/06/2022 08:11:48 UTC
 <!--END_SECTION:waka-->
 
 </details>

@@ -21,9 +21,8 @@ struct Kyle: View {
     let tools: [Software] = [VS Code, xCode, Git]
     let interests: [Interests] = [programming, apple tech, family, music]
     var favoriteDrink: String {
-        let date = Date()
         let calendar = Calendar.current
-        let hour = calendar.component(.hour, from: date)
+        let hour = calendar.component(.hour, from: .now)
         if hour < 12 {
             return "Coffee"
         } else if hour < 18 {

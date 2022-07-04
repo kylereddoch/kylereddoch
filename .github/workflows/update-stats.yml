@@ -17,5 +17,5 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
-          SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "True"

@@ -133,16 +133,16 @@ Sunday       55 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zoom                     32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 

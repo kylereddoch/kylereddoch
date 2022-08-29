@@ -86,7 +86,7 @@ npx kylereddoch
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -133,16 +133,17 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 min               ████████████████░░░░░░░░░   67.41% 
+JSON                     0 secs              ████████░░░░░░░░░░░░░░░░░   32.59%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CS210-CPP                2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 

@@ -86,7 +86,7 @@ npx kylereddoch
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -146,8 +146,8 @@ CS210-CPP                44 mins             ███████████�
 ChadaTech                8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.0%
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████░░░░   86.42% 
-iostream                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.58%
+Windows                  50 mins             ███████████████████████░░   95.17% 
+Mac                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
 
 ```
 

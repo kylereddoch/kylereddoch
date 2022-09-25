@@ -86,7 +86,7 @@ npx kylereddoch
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
@@ -96,7 +96,7 @@ npx kylereddoch
 
 > 🏆 176 Contributions in the Year 2022
  > 
-> 📦 69.8 kB Used in GitHub's Storage 
+> 📦 69.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 

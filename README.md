@@ -96,7 +96,7 @@ npx kylereddoch
 
 > 🏆 187 Contributions in the Year 2022
  > 
-> 📦 70.3 kB Used in GitHub's Storage 
+> 📦 70.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 

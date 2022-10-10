@@ -133,17 +133,16 @@ Sunday       68 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      34 mins             █████████████████████░░░░   83.6% 
-Markdown                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.4%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AirgeadBanking           41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 

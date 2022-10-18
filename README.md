@@ -86,7 +86,7 @@ npx kylereddoch
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -94,7 +94,7 @@ npx kylereddoch
 
 **🐱 My GitHub Data** 
 
-> 🏆 198 Contributions in the Year 2022
+> 🏆 201 Contributions in the Year 2022
  > 
 > 📦 71.9 kB Used in GitHub's Storage 
  > 
@@ -117,9 +117,9 @@ npx kylereddoch
 
 ```text
 Monday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.9% 
-Tuesday      23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
+Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.67% 
 Wednesday    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
-Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.67% 
+Thursday     23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
 Friday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
 Saturday     90 commits     ███████░░░░░░░░░░░░░░░░░░   27.61% 
 Sunday       68 commits     █████░░░░░░░░░░░░░░░░░░░░   20.86%

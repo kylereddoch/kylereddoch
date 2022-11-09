@@ -58,6 +58,13 @@ npx kylereddoch
 
 **👆 This command line tool can be [found here](https://github.com/kylereddoch/npx_card). <!-- If you are interested in learning how to make your own command line tool, check out my [article here]().-->**
 
+### Where you can find me
+
+- [My website][website]
+- <a rel="me" href="https://iosdev.space/@kylewritescode">Mastodon</a>
+- [Twitter][twitter]
+- [Instagram][instagram]
+
 ### Check out what I am currently up to 👇🏼
 
 [Here's what I'm up to][now].

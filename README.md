@@ -61,9 +61,8 @@ npx kylereddoch
 ### Where you can find me
 
 - [My website][website]
-- <a rel="me" href="https://iosdev.space/@kylewritescode">Mastodon</a>
-- [Twitter][twitter]
-- [Instagram][instagram]
+- [Mastodon][mastodon]
+- [Pixelfed][pixelfed]
 
 ### Check out what I am currently up to 👇🏼
 
@@ -189,6 +188,8 @@ I love being able to offer people the tools/software that help make a difference
 _NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others that have not been put on Github._
 
 [website]: https://kylereddoch.me
+[mastodon]: https://iosdev.space/@kylewritescode
+[pixelfed]: https://pixelfed.social/@kylereddoch
 [twitter]: https://twitter.com/winphankyle
 [instagram]: https://instagram.com/kyle.reddoch
 [linkedin]: https://linkedin.com/in/kylereddoch

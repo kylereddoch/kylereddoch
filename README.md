@@ -94,7 +94,7 @@ npx kylereddoch
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
 
@@ -102,7 +102,7 @@ npx kylereddoch
 
 > 🏆 17 Contributions in the Year 2023
  > 
-> 📦 76.5 kB Used in GitHub's Storage 
+> 📦 77.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 

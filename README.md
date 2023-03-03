@@ -3,7 +3,6 @@
 ### Software Engineer // Developer // Nerd
 
 ![github follow](https://img.shields.io/github/followers/kylereddoch?label=Followers&logo=github)
-[![twitter follow](https://img.shields.io/twitter/follow/winphankyle?label=Follow&logo=twitter&style=flat)](hhttps://twitter.com/intent/follow?screen_name=winphankyle)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kylereddoch.kylereddoch&left_color=black&right_color=blue)
 
 ### A little about me... 😎
@@ -18,7 +17,7 @@ struct Kyle: View {
     let currentLocation = "Amarillo, TX"
     let askMeAbout: [Questions] = [programming, apple tech, shortcuts]
     let languages: [Languages] = [php, python, java, swift, javascript, html, css]
-    let tools: [Software] = [VS Code, xCode, Git]
+    let tools: [Software] = [VS Code, Xcode, Git]
     let interests: [Interests] = [programming, apple tech, family, music]
     var favoriteDrink: String {
         let calendar = Calendar.current
@@ -48,7 +47,7 @@ struct Kyle: View {
 
 ### Let's meet and chat!
 
-![Schedule a meeting with me!](images/schedule_meeting.png)
+[![Schedule a meeting with me!](images/schedule_meeting.png)][calendly30min]
 
 👇 Type the following in your console or terminal to connect with me.
 
@@ -192,3 +191,4 @@ _NOTE: Top languages does not indicate my skill level or anything like that. It 
 [githubstars]: https://stars.github.com/nominate/
 [githubsponsor]: https://github.com/sponsors/kylereddoch
 [now]: https://kylereddoch.me/now/
+[calendly30min]: https://calendly.com/kylewritescode/30min

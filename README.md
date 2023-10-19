@@ -91,7 +91,7 @@ npx kylereddoch
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -151,11 +151,11 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C++                      6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 

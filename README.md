@@ -136,18 +136,16 @@ Sunday                   125 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 11 mins             ███████████████░░░░░░░░░░   59.48 % 
-YAML                     7 mins              ██████████░░░░░░░░░░░░░░░   38.82 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kylereddoch.github.io    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 

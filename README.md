@@ -91,8 +91,6 @@ npx kylereddoch
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2042%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.1%20thousand%20lines%20of%20code-blue)
@@ -109,45 +107,6 @@ npx kylereddoch
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-🌆 Daytime                141 commits         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-🌃 Evening                289 commits         █████████████░░░░░░░░░░░░   52.83 % 
-🌙 Night                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Friday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Saturday                 102 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Sunday                   125 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text

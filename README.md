@@ -136,17 +136,16 @@ Sunday                   125 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Ruby                     1 min               ████████████████████████░   95.76 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kylereddoch.github.io    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 

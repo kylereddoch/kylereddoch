@@ -101,13 +101,13 @@ npx kylereddoch
 
 > 📦 103.9 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2024
+> 🏆 12 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm a Night 🦉** 
 

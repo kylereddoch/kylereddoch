@@ -72,11 +72,7 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New Branding: Welcome to Kyle’s Tech Korner!](https://kylereddoch.me/2024/01/15/new-brand-kyles-tech-korner.html)
-- [How to Add a Mastodon Share Button to Your Website](https://kylereddoch.me/2023/02/20/creating-mastodon-share-button.html)
-- [Using an Alias for Your Mastodon Account with Jekyll and GitHub Pages](https://kylereddoch.me/2023/02/15/using-alias-for-mastodon-account-jekyll-github-pages.html)
-- [Adding Mastodon Comments to a Jekyll Blog](https://kylereddoch.me/2023/02/13/adding-mastodon-comments-jekyll-blog.html)
-- [Tutorial: Create a Simple npx Business Card](https://kylereddoch.me/2022/09/26/create-a-simple-npx-business-card.html)
+- [Welcome to the new Kyle&#39;s Tech Korner](https://weblog.kylereddoch.me/2024/08/welcome-to-the-new-kyles-tech-korner)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kylereddoch.me)

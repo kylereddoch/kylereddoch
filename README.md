@@ -75,7 +75,7 @@ npx kylereddoch
 - [Welcome to the new Kyle&#39;s Tech Korner](https://weblog.kylereddoch.me/2024/08/welcome-to-the-new-kyles-tech-korner)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://kylereddoch.me)
+➡️ [more blog posts...](https://weblog.kylereddoch.me)
 
 ---
 

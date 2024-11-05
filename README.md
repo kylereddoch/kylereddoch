@@ -72,6 +72,7 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My WeblogPoMoAMA](https://weblog.kylereddoch.me/2024/11/my-weblogpomoama)
 - [The iPhone Wall Project](https://weblog.kylereddoch.me/2024/09/the-iphone-wall-project)
 - [Welcome to the new Kyle&#39;s Tech Korner](https://weblog.kylereddoch.me/2024/08/welcome-to-the-new-kyles-tech-korner)
 <!-- BLOG-POST-LIST:END -->

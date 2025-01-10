@@ -105,7 +105,7 @@ npx kylereddoch
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 

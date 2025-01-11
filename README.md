@@ -101,8 +101,6 @@ npx kylereddoch
 
 > 📦 110.5 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 31 Public Repositories 

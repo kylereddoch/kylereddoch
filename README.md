@@ -7,42 +7,32 @@
 
 ### A little about me... 😎
 
-```swift
-import CaffeineKit
-import NerdKit
-import SwiftUI
+```python
+from datetime import datetime
 
-struct Kyle: View {
-    let currentActivity = "Building the next big thing"
-    let currentLocation = "Amarillo, TX"
-    let askMeAbout: [Questions] = [programming, apple tech, shortcuts]
-    let languages: [Languages] = [php, python, java, swift, javascript, html, css]
-    let tools: [Software] = [VS Code, Xcode, Git]
-    let interests: [Interests] = [programming, apple tech, family, music]
-    var favoriteDrink: String {
-        let calendar = Calendar.current
-        let hour = calendar.component(.hour, from: .now)
-        if hour < 12 {
-            return "Coffee"
-        } else if hour < 18 {
-            return "Dr Pepper, Tea, or Water"
-        } else {
-            return "Tea or Water"
-        }
-    }
+current_activity = "Building the next big thing"
+current_location = "Amarillo, TX"
+languages = ["PHP", "Python", "Java", "Swift", "JavaScript", "HTML", "CSS"]
+tools = ["VS Code", "Xcode", "Git"]
+interests = ["programming", "apple tech", "family", "music"]
+ask_me_about = ["programming", "apple tech", "shortcuts"]
 
-    var body: some View {
-        VStack {
-            Text("Hello, I'm Kyle")
-            Text("I'm currently \(currentActivity) in \(currentLocation)")
-            Text("Some programming lanuages I know are: \(languages)")
-            Text("Tools that I use regularly: \(tools)")
-            Text("I'm interested in: \(interests)")
-            Text("You can ask me about: \(askMeAbout)")
-            Text("My favorite drink is \(favoriteDrink)")
-        }
-    }
-}
+def favorite_drink():
+    hour = datetime.now().hour
+    if hour < 12:
+        return "Coffee"
+    elif hour < 18:
+        return "Dr Pepper, Tea, or Water"
+    else:
+        return "Tea or Water"
+
+print("Hello, I'm Kyle")
+print(f"I'm currently {current_activity} in {current_location}")
+print(f"Some programming languages I know are: {', '.join(languages)}")
+print(f"Tools that I use regularly: {', '.join(tools)}")
+print(f"I'm interested in: {', '.join(interests)}")
+print(f"You can ask me about: {', '.join(ask_me_about)}")
+print(f"My favorite drink is {favorite_drink()}")
 ```
 
 ### Let's meet and chat!

@@ -62,11 +62,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blog Question Challenge 2025](https://weblog.kylereddoch.me/2025/01/blog-question-challenge-2025)
 - [Catppuccin Mocha UI for Mastodon](https://weblog.kylereddoch.me/2025/01/catppuccin-mocha-ui-for-mastodon)
 - [My Goals for 2025](https://weblog.kylereddoch.me/2025/01/my-goals-for-2025)
 - [A 365 in 2025 Photo Log Challenge](https://weblog.kylereddoch.me/2025/01/a-365-in-2025-photo-log-challenge)
 - [Apple Music to Discord](https://weblog.kylereddoch.me/2024/11/apple-music-to-discord)
-- [Proton Black Friday Deals](https://weblog.kylereddoch.me/2024/11/proton-black-friday-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://weblog.kylereddoch.me)

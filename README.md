@@ -1,6 +1,6 @@
 # Hello 👋, I'm Kyle
 
-### Software Engineer // Developer // Nerd
+### Developer // Tech Nerd
 
 ![github follow](https://img.shields.io/github/followers/kylereddoch?label=Followers&logo=github)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kylereddoch.kylereddoch&left_color=black&right_color=blue)

@@ -62,11 +62,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Surfing the Social Wave: A Beta Tester’s Insight into Flipboard’s Surf App](https://weblog.kylereddoch.me/2025/01/surfing-the-social-wave-a-beta-testers-insight-into-flipboards-surf-app)
 - [Blog Question Challenge 2025](https://weblog.kylereddoch.me/2025/01/blog-question-challenge-2025)
 - [Catppuccin Mocha UI for Mastodon](https://weblog.kylereddoch.me/2025/01/catppuccin-mocha-ui-for-mastodon)
 - [My Goals for 2025](https://weblog.kylereddoch.me/2025/01/my-goals-for-2025)
 - [A 365 in 2025 Photo Log Challenge](https://weblog.kylereddoch.me/2025/01/a-365-in-2025-photo-log-challenge)
-- [Apple Music to Discord](https://weblog.kylereddoch.me/2024/11/apple-music-to-discord)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://weblog.kylereddoch.me)

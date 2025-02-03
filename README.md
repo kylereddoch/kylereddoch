@@ -62,11 +62,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blog Questions Challenge: Technology Edition](https://weblog.kylereddoch.me/2025/02/blog-questions-challenge-technology-edition)
 - [Automate Reboot Reminders for Users with This PowerShell Script](https://weblog.kylereddoch.me/2025/01/automate-reboot-reminders-for-users-with-this-powershell-script)
 - [Announced vs. Unannounced Cybersecurity Drills - A Balancing Act](https://weblog.kylereddoch.me/2025/01/announced-vs-unannounced-cybersecurity-drills-a-balancing-act)
 - [Discovering My Favorite Feeds on Surf](https://weblog.kylereddoch.me/2025/01/discovering-my-favorite-feeds-on-surf)
 - [Best App Subscription for Mac and iOS in 2025: Setapp Review](https://weblog.kylereddoch.me/2025/01/best-app-subscription-for-mac-and-ios-in-2025-setapp-review)
-- [Surfing the Social Wave: A Beta Tester’s Insight into Flipboard’s Surf App](https://weblog.kylereddoch.me/2025/01/surfing-the-social-wave-a-beta-testers-insight-into-flipboards-surf-app)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://weblog.kylereddoch.me)

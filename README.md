@@ -62,11 +62,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blog Questions Challenge – TV Shows Edition](https://weblog.kylereddoch.me/2025/02/blog-questions-challenge-tv-shows-edition)
 - [Managing Your Social Media Just Got Easier – A Hands-On Review of Fedica](https://weblog.kylereddoch.me/2025/02/managing-your-social-media-just-got-easier-a-hands-on-review-of-fedica)
 - [Blog Questions Challenge: Music Edition](https://weblog.kylereddoch.me/2025/02/blog-questions-challenge-music-edition)
 - [Blog Questions Challenge: Technology Edition](https://weblog.kylereddoch.me/2025/02/blog-questions-challenge-technology-edition)
 - [Automate Reboot Reminders for Users with This PowerShell Script](https://weblog.kylereddoch.me/2025/01/automate-reboot-reminders-for-users-with-this-powershell-script)
-- [Announced vs. Unannounced Cybersecurity Drills - A Balancing Act](https://weblog.kylereddoch.me/2025/01/announced-vs-unannounced-cybersecurity-drills-a-balancing-act)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://weblog.kylereddoch.me)

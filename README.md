@@ -62,11 +62,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Review: Redragon Behemoth K724 Pro - A Feature-Packed Powerhouse](https://weblog.kylereddoch.me/2025/03/review-redragon-behemoth-k724-pro-a-feature-packed-powerhouse)
 - [Enhancing My Terminal Experience](https://weblog.kylereddoch.me/2025/02/enhancing-my-terminal-experience)
 - [Blog Questions Challenge – TV Shows Edition](https://weblog.kylereddoch.me/2025/02/blog-questions-challenge-tv-shows-edition)
 - [Managing Your Social Media Just Got Easier – A Hands-On Review of Fedica](https://weblog.kylereddoch.me/2025/02/managing-your-social-media-just-got-easier-a-hands-on-review-of-fedica)
 - [Blog Questions Challenge: Music Edition](https://weblog.kylereddoch.me/2025/02/blog-questions-challenge-music-edition)
-- [Blog Questions Challenge: Technology Edition](https://weblog.kylereddoch.me/2025/02/blog-questions-challenge-technology-edition)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://weblog.kylereddoch.me)

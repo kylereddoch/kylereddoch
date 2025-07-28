@@ -89,11 +89,13 @@ npx kylereddoch
 
 **🐱 My GitHub Data** 
 
-> 📦 123.4 kB Used in GitHub's Storage 
+> 📦 123.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 70 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 

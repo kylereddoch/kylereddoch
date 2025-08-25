@@ -91,7 +91,7 @@ npx kylereddoch
 
 > 📦 149.1 kB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 

@@ -1,38 +1,62 @@
-# Hello 👋, I'm Kyle
+# Hello 👋, I'm Kyle (aka CybersecKyle)
 
-### Developer // Tech Nerd
+### Cybersecurity & IT Solutions Leader
 
 ![github follow](https://img.shields.io/github/followers/kylereddoch?label=Followers&logo=github)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kylereddoch.kylereddoch&left_color=black&right_color=blue)
 
-### A little about me... 😎
-
 ```python
+# totally_legit_cybersec_profile.py
+
+import time
+import random
+import hashlib as threat_hash
+import socket as sock_puppet
+import secrets as opsec
+
 from datetime import datetime
 
-current_activity = "Building the next big thing"
+current_activity = "Defending networks & breaking down threats"
 current_location = "Amarillo, TX"
-languages = ["PHP", "Python", "Java", "Swift", "JavaScript", "HTML", "CSS"]
-tools = ["VS Code", "Xcode", "Git"]
-interests = ["programming", "apple tech", "family", "music"]
-ask_me_about = ["programming", "apple tech", "shortcuts"]
+languages = ["Python", "PowerShell", "Bash", "JavaScript", "HTML", "CSS"]
+tools = ["Wireshark", "Kali Linux", "Nmap", "Metasploit", "VS Code", "Git"]
+interests = ["cybersecurity", "incident response", "automation", "family", "music"]
+ask_me_about = ["threat detection", "MSP life", "blue team tactics", "automation scripts"]
 
 def favorite_drink():
     hour = datetime.now().hour
     if hour < 12:
-        return "Coffee"
+        return "Coffee ☕ (morning firewall fuel)"
     elif hour < 18:
-        return "Dr Pepper, Tea, or Water"
+        return "Dr Pepper 🥤 or Water 💧 (pentest hydration)"
     else:
-        return "Tea or Water"
+        return "Tea 🍵 (for late-night log analysis)"
 
-print("Hello, I'm Kyle")
-print(f"I'm currently {current_activity} in {current_location}")
-print(f"Some programming languages I know are: {', '.join(languages)}")
-print(f"Tools that I use regularly: {', '.join(tools)}")
-print(f"I'm interested in: {', '.join(interests)}")
-print(f"You can ask me about: {', '.join(ask_me_about)}")
-print(f"My favorite drink is {favorite_drink()}")
+def boot_sequence():
+    banners = [
+        "[*] Initializing CybersecKyle persona...",
+        "[*] Loading threat intelligence modules...",
+        "[*] Compiling scripts of doom...",
+        "[+] Profile boot complete."
+    ]
+    for msg in banners:
+        print(msg)
+        time.sleep(0.5)
+
+def generate_session_id():
+    return threat_hash.sha256(opsec.token_bytes(8)).hexdigest()[:12]
+
+# Run profile
+boot_sequence()
+print(f"Hello, I'm Kyle (aka CybersecKyle)")
+print(f"Session ID: {generate_session_id()}")
+print(f"Current status: {current_activity} in {current_location}")
+print(f"Languages in my arsenal: {', '.join(languages)}")
+print(f"Tools in my kit: {', '.join(tools)}")
+print(f"My interests: {', '.join(interests)}")
+print(f"Ask me about: {', '.join(ask_me_about)}")
+print(f"Favorite drink at this hour: {favorite_drink()}")
+print("[!] Warning: Unauthorized packets will be dropped 🚫📡")
 ```
 
 ### Let's meet and chat!
@@ -51,11 +75,11 @@ npx kylereddoch
 
 - [My website][website]
 - [Mastodon][mastodon]
-- [Pixelfed][pixelfed]
+- [Instagram][instagram]
 
-### Check out what I am currently up to 👇🏼
+<!-- ### Check out what I am currently up to 👇🏼
 
-[Here's what I'm up to][now].
+[Here's what I'm up to][now]. -->
 
 ---
 
@@ -69,7 +93,7 @@ npx kylereddoch
 - [Review: Redragon Predator M612 Pro RGB Gaming Mouse](https://www.kylereddoch.me/blog/review-redragon-predator-m612-pro-rgb-gaming-mouse/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://weblog.kylereddoch.me)
+➡️ [more blog posts...](https://www.kylereddoch.me/blog/)
 
 ---
 
@@ -169,8 +193,8 @@ I love being able to offer people the tools/software that help make a difference
 _NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others that have not been put on Github._
 
 [website]: https://kylereddoch.me
-[mastodon]: https://infosec.exchange/@beardedtechguy
-[pixelfed]: https://pixtagram.social/@beardedtechguy
+[mastodon]: https://infosec.exchange/@cyberseckyle
+[instagram]: https://instagram.com/@cyberseckyle
 [twitter]: https://twitter.com/winphankyle
 [linkedin]: https://linkedin.com/in/kylereddoch
 [wakatime]: https://wakatime.com/@10619014-9413-4a5b-a3df-2d3892b8a73d

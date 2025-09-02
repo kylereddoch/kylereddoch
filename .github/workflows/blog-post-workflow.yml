@@ -2,8 +2,8 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 13 * * *' # 8:00 AM CDT (UTC-5)
-    - cron: '0 14 * * *' # 8:00 AM CST (UTC-6)
+    - cron: '0 8 * * *'
+      timezone: 'America/Chicago'
   workflow_dispatch:
 
 jobs:
@@ -11,23 +11,9 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Gate: only run at 8:00 AM America/Chicago
-        id: gate
-        shell: bash
-        run: |
-          hour=$(TZ=America/Chicago date +%H)
-          echo "Local hour in America/Chicago: $hour"
-          if [ "$hour" = "08" ]; then
-            echo "is_eight=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "is_eight=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - uses: actions/checkout@v4
-        if: steps.gate.outputs.is_eight == 'true'
 
       - uses: gautamkrishnar/blog-post-workflow@master
-        if: steps.gate.outputs.is_eight == 'true'
         with:
           max_post_count: "5"
           feed_list: "https://www.kylereddoch.me/feed.xml"

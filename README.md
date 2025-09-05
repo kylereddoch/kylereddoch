@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Start to Finish: Moving My Blog to Eleventy + GitHub Pages](https://www.kylereddoch.me/blog/from-start-to-finish-moving-my-blog-to-eleventy-github-pages/)
 - [Cybersecurity Weekly Roundup for July 19–24, 2025](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-for-july-19-24-2025/)
 - [Welcome to the Cybersecurity Weekly Roundup](https://www.kylereddoch.me/blog/welcome-to-the-cybersecurity-weekly-roundup/)
 - [Where I&#39;ve Been: A Life Update from BeardedTechGuy &lpar;or… CybersecKyle?&rpar;](https://www.kylereddoch.me/blog/where-ive-been-a-life-update-from-beardedtechguy-or-cyberseckyle/)
 - [Why I&#39;m Sharing My Amazon Wish List](https://www.kylereddoch.me/blog/why-im-sharing-my-amazon-wish-list/)
-- [Review: Redragon Predator M612 Pro RGB Gaming Mouse](https://www.kylereddoch.me/blog/review-redragon-predator-m612-pro-rgb-gaming-mouse/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

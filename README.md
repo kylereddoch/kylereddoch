@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Weekly Roundup for September 22–26, 2025](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-for-september-22-26-2025/)
 - [Apple’s September Event: What Mattered, What’s Hype, and What I’m Actually Buying](https://www.kylereddoch.me/blog/apples-september-event-what-mattered-whats-hype-and-what-im-actually-buying/)
 - [Review: Redragon WYVERN K689 PRO Mechanical Keyboard: Budget Beast with a Pro Attitude](https://www.kylereddoch.me/blog/review-redragon-wyvern-k689-pro-mechanical-keyboard-budget-beast-with-a-pro-attitude/)
 - [From Start to Finish: Moving My Blog to Eleventy + GitHub Pages](https://www.kylereddoch.me/blog/from-start-to-finish-moving-my-blog-to-eleventy-github-pages/)
 - [Cybersecurity Weekly Roundup for July 19–24, 2025](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-for-july-19-24-2025/)
-- [Welcome to the Cybersecurity Weekly Roundup](https://www.kylereddoch.me/blog/welcome-to-the-cybersecurity-weekly-roundup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

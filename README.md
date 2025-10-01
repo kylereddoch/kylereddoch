@@ -2,7 +2,7 @@
 
 ### Cybersecurity & IT Solutions Leader
 
-![github follow](https://img.shields.io/github/followers/kylereddoch?label=Followers&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/kylereddoch?style=for-the-badge&logo=github)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkylereddoch%2Fkylereddoch&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkylereddoch%2Fkylereddoch)
 
 ```python

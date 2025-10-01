@@ -3,7 +3,7 @@
 ### Cybersecurity & IT Solutions Leader
 
 ![github follow](https://img.shields.io/github/followers/kylereddoch?label=Followers&logo=github)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kylereddoch.kylereddoch&left_color=black&right_color=blue)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkylereddoch%2Fkylereddoch&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkylereddoch%2Fkylereddoch)
 
 ```python
 # totally_legit_cybersec_profile.py

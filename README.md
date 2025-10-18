@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sora, Hands-On: thrilling for creators, thorny for privacy](https://www.kylereddoch.me/blog/sora-hands-on-thrilling-for-creators-thorny-for-privacy/)
+- [Cybersecurity Weekly Roundup for October 11–17, 2025](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-for-october-11-17-2025/)
 - [Weekly Notes: Week 41, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-41-2025/)
 - [Cybersecurity Weekly Roundup for October 3–10, 2025](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-for-october-3-10-2025/)
 - [Weekly Notes: Week 40, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-40-2025/)
-- [What To Do If You Were Affected By The Discord September 20th Security Incident](https://www.kylereddoch.me/blog/what-to-do-if-you-were-affected-by-the-discord-september-20th-security-incident/)
-- [The npm ‘Shai-Hulud’ Supply-Chain Meltdown: What It Broke, What It Means, and What We Fix Next](https://www.kylereddoch.me/blog/the-npm-shai-hulud-supply-chain-meltdown-what-it-broke-what-it-means-and-what-we-fix-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

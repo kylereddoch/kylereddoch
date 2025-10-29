@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove Preinstalled Microsoft Store Apps in Windows 11 &lpar;24H2 &amp; 25H2&rpar;](https://www.kylereddoch.me/blog/remove-preinstalled-microsoft-store-apps-in-windows-11-24h2-and-25h2/)
 - [Weekly Notes: Week 43, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-43-2025/)
 - [The CybersecKyle Community is live: security and tech, together](https://www.kylereddoch.me/blog/the-cyberseckyle-community-is-live-security-and-tech-together/)
 - [Weekly Notes: Week 42, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-42-2025/)
 - [Sora, Hands-On: thrilling for creators, thorny for privacy](https://www.kylereddoch.me/blog/sora-hands-on-thrilling-for-creators-thorny-for-privacy/)
-- [Cybersecurity Weekly Roundup for October 11–17, 2025](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-for-october-11-17-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

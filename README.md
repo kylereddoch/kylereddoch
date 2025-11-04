@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes: Week 44, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-44-2025/)
 - [WSUS just became an attacker’s dream. Stop publishing your patch pipeline to the internet.](https://www.kylereddoch.me/blog/wsus-just-became-an-attackers-dream-stop-publishing-your-patch-pipeline-to-the-internet/)
 - [Embedding Mastodon Posts in Eleventy: My Journey](https://www.kylereddoch.me/blog/embedding-mastodon-posts-in-eleventy-my-journey/)
 - [Remove Preinstalled Microsoft Store Apps in Windows 11 &lpar;24H2 &amp; 25H2&rpar;](https://www.kylereddoch.me/blog/remove-preinstalled-microsoft-store-apps-in-windows-11-24h2-and-25h2/)
 - [Weekly Notes: Week 43, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-43-2025/)
-- [The CybersecKyle Community is live: security and tech, together](https://www.kylereddoch.me/blog/the-cyberseckyle-community-is-live-security-and-tech-together/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

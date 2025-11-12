@@ -113,7 +113,7 @@ npx kylereddoch
 
 **🐱 My GitHub Data** 
 
-> 📦 305.0 kB Used in GitHub's Storage 
+> 📦 307.6 kB Used in GitHub's Storage 
  > 
 > 🏆 374 Contributions in the Year 2025
  > 

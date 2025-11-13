@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proton Black Friday 2025 — Why I run on Proton and the best deals to grab](https://www.kylereddoch.me/blog/proton-black-friday-2025-%E2%80%94-why-i-run-on-proton-and-the-best-deals-to-grab/)
 - [Why You Should Be Wary of Texas SB 2420’s Age-Verification Push](https://www.kylereddoch.me/blog/why-you-should-be-wary-of-texas-sb-2420s-age-verification-push/)
 - [Responding to NIST’s 2025 Password Standard Update &lpar;SP 800-63B-4&rpar;](https://www.kylereddoch.me/blog/responding-to-nists-2025-password-standard-update-sp-800-63b-4/)
 - [Weekly Notes: Week 45, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-45-2025/)
 - [CybersecKyle Security How-To Series: Everyday Defense, Part 1: Password Managers + MFA](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-everyday-defense-part-1-password-managers-mfa/)
-- [Introducing my new CybersecKyle Security How-To Series: the full roadmap](https://www.kylereddoch.me/blog/introducing-my-new-cyberseckyle-security-how-to-series-the-full-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

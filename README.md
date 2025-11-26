@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Genesis Mission Puts AI in Charge of Our Science. As a Security Pro, I’m Not Sold.](https://www.kylereddoch.me/blog/the-genesis-mission-puts-ai-in-charge-of-our-science-as-a-security-pro-im-not-sold/)
+- [Weekly Notes: Week 47, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-47-2025/)
 - [Sha1-Hulud: The Second Coming Of The Shai-Hulud NPM Worm](https://www.kylereddoch.me/blog/sha1-hulud-the-second-coming-of-the-shai-hulud-npm-worm/)
 - [Cybersecurity Weekly Roundup for November 16-23, 2025](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-for-november-16-23-2025/)
 - [CybersecKyle Security How-To Series: Everyday Defense, Part 2: 2FA Rescue and Recovery](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-everyday-defense-part-2-2fa-rescue-and-recovery/)
-- [Weekly Notes: Week 46, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-46-2025/)
-- [Chrome’s New Driver’s License Autofill Is a Terrible Idea](https://www.kylereddoch.me/blog/chromes-new-drivers-license-autofill-is-a-terrible-idea/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

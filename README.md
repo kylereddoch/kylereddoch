@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Sleeper&quot; Browser Extensions: How a 7-Year Campaign Turned Chrome and Edge into Spyware](https://www.kylereddoch.me/blog/sleeper-browser-extensions-how-a-7-year-campaign-turned-chrome-and-edge-into-spyware/)
+- [Your Android TV Box Might Be a Botnet Farm without You Knowing: A Deep Dive](https://www.kylereddoch.me/blog/your-android-tv-box-might-be-a-botnet-farm-without-you-knowing-a-deep-dive/)
 - [Weekly Notes: Week 48, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-48-2025/)
 - [The Genesis Mission Puts AI in Charge of Our Science. As a Security Pro, I’m Not Sold.](https://www.kylereddoch.me/blog/the-genesis-mission-puts-ai-in-charge-of-our-science-as-a-security-pro-im-not-sold/)
 - [Weekly Notes: Week 47, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-47-2025/)
-- [Sha1-Hulud: The Second Coming Of The Shai-Hulud NPM Worm](https://www.kylereddoch.me/blog/sha1-hulud-the-second-coming-of-the-shai-hulud-npm-worm/)
-- [Cybersecurity Weekly Roundup for November 16-23, 2025](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-for-november-16-23-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

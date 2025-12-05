@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Essential Cyberattacks You Should Understand: Your Guide to Digital Safety](https://www.kylereddoch.me/blog/15-essential-cyberattacks-you-should-understand-your-guide-to-digital-safety/)
 - [The Breaking Point: Why Cybersecurity and SOC Professionals Are Burning Out, and What Actually Works](https://www.kylereddoch.me/blog/the-breaking-point-why-cybersecurity-and-soc-professionals-are-burning-out-and-what-actually-works/)
 - [&quot;Sleeper&quot; Browser Extensions: How a 7-Year Campaign Turned Chrome and Edge into Spyware](https://www.kylereddoch.me/blog/sleeper-browser-extensions-how-a-7-year-campaign-turned-chrome-and-edge-into-spyware/)
 - [Your Android TV Box Might Be a Botnet Farm without You Knowing: A Deep Dive](https://www.kylereddoch.me/blog/your-android-tv-box-might-be-a-botnet-farm-without-you-knowing-a-deep-dive/)
 - [Weekly Notes: Week 48, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-48-2025/)
-- [The Genesis Mission Puts AI in Charge of Our Science. As a Security Pro, I’m Not Sold.](https://www.kylereddoch.me/blog/the-genesis-mission-puts-ai-in-charge-of-our-science-as-a-security-pro-im-not-sold/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cooling Down the Servers by Adding a Little Snow](https://www.kylereddoch.me/blog/cooling-down-the-servers-by-adding-a-little-snow/)
 - [GRC In The Real World: Making HIPAA, PCI, NIST CSF, FTC Safeguards, and NIS2 Work Together](https://www.kylereddoch.me/blog/grc-in-the-real-world-making-hipaa-pci-nist-csf-ftc-safeguards-and-nis2-work-together/)
 - [Weekly Notes: Week 49, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-49-2025/)
 - [15 Essential Cyberattacks You Should Understand: Your Guide to Digital Safety](https://www.kylereddoch.me/blog/15-essential-cyberattacks-you-should-understand-your-guide-to-digital-safety/)
 - [The Breaking Point: Why Cybersecurity and SOC Professionals Are Burning Out, and What Actually Works](https://www.kylereddoch.me/blog/the-breaking-point-why-cybersecurity-and-soc-professionals-are-burning-out-and-what-actually-works/)
-- [&quot;Sleeper&quot; Browser Extensions: How a 7-Year Campaign Turned Chrome and Edge into Spyware](https://www.kylereddoch.me/blog/sleeper-browser-extensions-how-a-7-year-campaign-turned-chrome-and-edge-into-spyware/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

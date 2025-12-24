@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CybersecKyle Security How-To Series: Everyday Defense, Part 3 — Browser Hygiene That Actually Sticks](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-everyday-defense-part-3-%E2%80%94-browser-hygiene-that-actually-sticks/)
+- [Weekly Notes: Less chaotic, more grounded &lpar;Week 51, 2025&rpar;](https://www.kylereddoch.me/blog/weekly-notes-less-chaotic-more-grounded-week-51-2025/)
 - [Weekly Notes: Week 50, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-50-2025/)
 - [Moving From Chrome, Edge, or Firefox To Vivaldi’s Built-In Blocklists](https://www.kylereddoch.me/blog/moving-from-chrome-edge-or-firefox-to-vivaldis-built-in-blocklists/)
 - [Cooling Down the Servers by Adding a Little Snow](https://www.kylereddoch.me/blog/cooling-down-the-servers-by-adding-a-little-snow/)
-- [GRC In The Real World: Making HIPAA, PCI, NIST CSF, FTC Safeguards, and NIS2 Work Together](https://www.kylereddoch.me/blog/grc-in-the-real-world-making-hipaa-pci-nist-csf-ftc-safeguards-and-nis2-work-together/)
-- [Weekly Notes: Week 49, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-49-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

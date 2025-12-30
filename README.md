@@ -86,11 +86,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes: Short week, full recharge &lpar;Week 52, 2025&rpar;](https://www.kylereddoch.me/blog/weekly-notes-short-week-full-recharge-week-52-2025/)
 - [My 2025 Year in Review](https://www.kylereddoch.me/blog/my-2025-year-in-review/)
 - [CybersecKyle Security How-To Series: Everyday Defense, Part 3 — Browser Hygiene That Actually Sticks](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-everyday-defense-part-3-%E2%80%94-browser-hygiene-that-actually-sticks/)
 - [Weekly Notes: Less chaotic, more grounded &lpar;Week 51, 2025&rpar;](https://www.kylereddoch.me/blog/weekly-notes-less-chaotic-more-grounded-week-51-2025/)
 - [Weekly Notes: Week 50, 2025](https://www.kylereddoch.me/blog/weekly-notes-week-50-2025/)
-- [Moving From Chrome, Edge, or Firefox To Vivaldi’s Built-In Blocklists](https://www.kylereddoch.me/blog/moving-from-chrome-edge-or-firefox-to-vivaldis-built-in-blocklists/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

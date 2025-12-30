@@ -2,6 +2,7 @@
 
 ### Cybersecurity & IT Solutions Leader
 
+![Mastodon Follow](https://img.shields.io/mastodon/follow/114614907486620795?domain=infosec.exchange&style=for-the-badge&logo=mastodon&logoColor=white&labelColor=%232F0C7A&color=brightgreen&link=https%3A%2F%2Finfosec.exchange%2F%40cyberseckyle) 
 ![GitHub followers](https://img.shields.io/github/followers/kylereddoch?style=for-the-badge&logo=github)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkylereddoch%2Fkylereddoch&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkylereddoch%2Fkylereddoch)
 

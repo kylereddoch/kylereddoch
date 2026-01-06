@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parked Domains Have Turned into a Malware Vending Machine](https://www.kylereddoch.me/blog/parked-domains-have-turned-into-a-malware-vending-machine/)
 - [Stepping into 2026](https://www.kylereddoch.me/blog/stepping-into-2026/)
 - [Putting AI to Work in the SOC](https://www.kylereddoch.me/blog/putting-ai-to-work-in-the-soc/)
 - [Weekly Notes: Short week, full recharge &lpar;Week 52, 2025&rpar;](https://www.kylereddoch.me/blog/weekly-notes-short-week-full-recharge-week-52-2025/)
 - [My 2025 Year in Review](https://www.kylereddoch.me/blog/my-2025-year-in-review/)
-- [CybersecKyle Security How-To Series: Everyday Defense, Part 3 — Browser Hygiene That Actually Sticks](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-everyday-defense-part-3-%E2%80%94-browser-hygiene-that-actually-sticks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

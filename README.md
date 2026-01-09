@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Health + ChatGPT: The Privacy Tradeoff](https://www.kylereddoch.me/blog/apple-health-chatgpt-the-privacy-tradeoff/)
 - [Weekly Notes: Easing Into 2026 &lpar;Week 1, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-easing-into-2026-week-1-2026/)
 - [Parked Domains Have Turned into a Malware Vending Machine](https://www.kylereddoch.me/blog/parked-domains-have-turned-into-a-malware-vending-machine/)
 - [Stepping into 2026](https://www.kylereddoch.me/blog/stepping-into-2026/)
 - [Putting AI to Work in the SOC](https://www.kylereddoch.me/blog/putting-ai-to-work-in-the-soc/)
-- [Weekly Notes: Short week, full recharge &lpar;Week 52, 2025&rpar;](https://www.kylereddoch.me/blog/weekly-notes-short-week-full-recharge-week-52-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

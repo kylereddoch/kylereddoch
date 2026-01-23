@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Common Network Ports You Must Know &lpar;and Secure&rpar;](https://www.kylereddoch.me/blog/20-common-network-ports-you-must-know-and-secure/)
 - [Cybersecurity Implications of Cloud Service Models &lpar;IaaS, PaaS, CaaS, and SaaS&rpar;](https://www.kylereddoch.me/blog/cybersecurity-implications-of-cloud-service-models-iaas-paas-caas-and-saas/)
 - [Apple Creator Studio Hit My Nerd Buttons and Yes, I’m Genuinely Excited](https://www.kylereddoch.me/blog/apple-creator-studio-hit-my-nerd-buttons-and-yes-im-genuinely-excited/)
 - [Weekly Notes: Down for the Count &lpar;Week 3, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-down-for-the-count-week-3-2026/)
 - [Weekly Notes: Back to Routines &lpar;Week 2, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-back-to-routines-week-2-2026/)
-- [The Unacceptable Failure: Grok, CSAM, and AI Safety](https://www.kylereddoch.me/blog/the-unacceptable-failure-grok-csam-and-ai-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

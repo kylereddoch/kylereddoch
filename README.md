@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [January 2026](https://www.kylereddoch.me/now/now-january-2026/)
 - [Cybersecurity Weekly Roundup: January 17-24, 2026](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-january-17-24-2026/)
 - [Bondi Blue in My Pocket](https://www.kylereddoch.me/blog/bondi-blue-in-my-pocket/)
 - [Managing Vulnerabilities in an MSP Environment](https://www.kylereddoch.me/blog/managing-vulnerabilities-in-an-msp-environment/)
 - [20 Common Network Ports You Must Know &lpar;and Secure&rpar;](https://www.kylereddoch.me/blog/20-common-network-ports-you-must-know-and-secure/)
-- [Cybersecurity Implications of Cloud Service Models &lpar;IaaS, PaaS, CaaS, and SaaS&rpar;](https://www.kylereddoch.me/blog/cybersecurity-implications-of-cloud-service-models-iaas-paas-caas-and-saas/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

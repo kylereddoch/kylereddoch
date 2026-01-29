@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Protecting Your Enterprise From “Employee Actions” on Network Devices](https://www.kylereddoch.me/blog/protecting-your-enterprise-from-employee-actions-on-network-devices/)
 - [Weekly Notes: Snowmageddon Bust, Frozen Pipes, Draft Done &lpar;Week 4, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-snowmageddon-bust-frozen-pipes-draft-done-week-4-2026/)
 - [January 2026](https://www.kylereddoch.me/now/now-january-2026/)
 - [Cybersecurity Weekly Roundup: January 17-24, 2026](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-january-17-24-2026/)
 - [Bondi Blue in My Pocket](https://www.kylereddoch.me/blog/bondi-blue-in-my-pocket/)
-- [Managing Vulnerabilities in an MSP Environment](https://www.kylereddoch.me/blog/managing-vulnerabilities-in-an-msp-environment/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

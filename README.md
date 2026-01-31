@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Weekly Roundup: January 24–30, 2026](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-january-24-30-2026/)
+- [I Didn’t Know You Could Do This: The NVRAM Trick That Saved a Mac](https://www.kylereddoch.me/blog/i-didnt-know-you-could-do-this-the-nvram-trick-that-saved-a-mac/)
 - [CybersecKyle Security How-To Series: Everyday Defense Part 4 - Phone hardening you can live with](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-everyday-defense-part-4-phone-hardening-you-can-live-with/)
 - [Protecting Your Enterprise From “Employee Actions” on Network Devices](https://www.kylereddoch.me/blog/protecting-your-enterprise-from-employee-actions-on-network-devices/)
 - [Weekly Notes: Snowmageddon Bust, Frozen Pipes, Draft Done &lpar;Week 4, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-snowmageddon-bust-frozen-pipes-draft-done-week-4-2026/)
-- [January 2026](https://www.kylereddoch.me/now/now-january-2026/)
-- [Cybersecurity Weekly Roundup: January 17-24, 2026](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-january-17-24-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

@@ -105,81 +105,6 @@ npx kylereddoch
 
 ---
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2044%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-677.39%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 385.3 kB Used in GitHub's Storage 
- > 
-> 🏆 115 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 43 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                274 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-🌆 Daytime                618 commits         ████████████░░░░░░░░░░░░░   48.55 % 
-🌃 Evening                307 commits         ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-🌙 Night                  74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Tuesday                  255 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Wednesday                175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Thursday                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Friday                   205 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Saturday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Sunday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in C++** 
-
-```text
-CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Liquid                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-
-
-
-
-<!--END_SECTION:waka-->
-
----
-
 ### 🙏🏼 Support
 
 I love being able to offer people the tools/software that help make a difference in their lives. Your support helps continue to make that happen. There is no pressure, though. If you like what I am doing and use what I put out, please consider supporting me through the various options below. I have set up both one-time donations and membership tiers. (Those that support me through memberships get extra perks!)
@@ -190,8 +115,6 @@ I love being able to offer people the tools/software that help make a difference
 <a href="https://www.buymeacoffee.com/kylereddoch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <a href='https://ko-fi.com/S6S374TCV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-_NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others that have not been put on Github._
 
 [website]: https://kylereddoch.me
 [mastodon]: https://infosec.exchange/@cyberseckyle

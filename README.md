@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Forensics for a Compromised Container: What to Collect and How to Snapshot It](https://www.kylereddoch.me/blog/digital-forensics-for-a-compromised-container-what-to-collect-and-how-to-snapshot-it/)
+- [Weekly Notes: Small Upgrades, Big Progress &lpar;Week 5, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-small-upgrades-big-progress-week-5-2026/)
 - [How a Blog Post Gets Built in My Corner of the Web](https://www.kylereddoch.me/blog/how-a-blog-post-gets-built-in-my-corner-of-the-web/)
 - [Cybersecurity Weekly Roundup: January 24–30, 2026](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-january-24-30-2026/)
 - [I Didn’t Know You Could Do This: The NVRAM Trick That Saved a Mac](https://www.kylereddoch.me/blog/i-didnt-know-you-could-do-this-the-nvram-trick-that-saved-a-mac/)
-- [CybersecKyle Security How-To Series: Everyday Defense Part 4 - Phone hardening you can live with](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-everyday-defense-part-4-phone-hardening-you-can-live-with/)
-- [Protecting Your Enterprise From “Employee Actions” on Network Devices](https://www.kylereddoch.me/blog/protecting-your-enterprise-from-employee-actions-on-network-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

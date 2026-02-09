@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes: Small Upgrades, Loud Lessons &lpar;Week 6, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-small-upgrades-loud-lessons-week-6-2026/)
+- [Don’t Do This: How I Accidentally Simulated Attacker Cleanup](https://www.kylereddoch.me/blog/dont-do-this-how-i-accidentally-simulated-attacker-cleanup/)
 - [Making SIEM Useful: How It Works, What It Does, and Why You Should Care](https://www.kylereddoch.me/blog/making-siem-useful-how-it-works-what-it-does-and-why-you-should-care/)
 - [Digital Forensics for a Compromised Container: What to Collect and How to Snapshot It](https://www.kylereddoch.me/blog/digital-forensics-for-a-compromised-container-what-to-collect-and-how-to-snapshot-it/)
 - [Weekly Notes: Small Upgrades, Big Progress &lpar;Week 5, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-small-upgrades-big-progress-week-5-2026/)
-- [How a Blog Post Gets Built in My Corner of the Web](https://www.kylereddoch.me/blog/how-a-blog-post-gets-built-in-my-corner-of-the-web/)
-- [Cybersecurity Weekly Roundup: January 24–30, 2026](https://www.kylereddoch.me/blog/cybersecurity-weekly-roundup-january-24-30-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

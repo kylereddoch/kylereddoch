@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes: WFH Mode, Olympics Nights, and F1 Is Back &lpar;Week 7, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-wfh-mode-olympics-nights-and-f1-is-back-week-7-2026/)
 - [Goodbye, Ring. I&#39;m Not Buying Into Your Mass Surveillance.](https://www.kylereddoch.me/blog/goodbye-ring-im-not-buying-into-your-mass-surveillance/)
 - [Weekly Notes: Small Upgrades, Loud Lessons &lpar;Week 6, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-small-upgrades-loud-lessons-week-6-2026/)
 - [Don’t Do This: How I Accidentally Simulated Attacker Cleanup](https://www.kylereddoch.me/blog/dont-do-this-how-i-accidentally-simulated-attacker-cleanup/)
 - [Making SIEM Useful: How It Works, What It Does, and Why You Should Care](https://www.kylereddoch.me/blog/making-siem-useful-how-it-works-what-it-does-and-why-you-should-care/)
-- [Digital Forensics for a Compromised Container: What to Collect and How to Snapshot It](https://www.kylereddoch.me/blog/digital-forensics-for-a-compromised-container-what-to-collect-and-how-to-snapshot-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fighting the PUP Wave: A Practical PowerShell Cleanup Workflow for MSPs](https://www.kylereddoch.me/blog/fighting-the-pup-wave-a-practical-powershell-cleanup-workflow-for-msps/)
 - [Weekly Notes: WFH Mode, Olympics Nights, and F1 Is Back &lpar;Week 7, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-wfh-mode-olympics-nights-and-f1-is-back-week-7-2026/)
 - [Goodbye, Ring. I&#39;m Not Buying Into Your Mass Surveillance.](https://www.kylereddoch.me/blog/goodbye-ring-im-not-buying-into-your-mass-surveillance/)
 - [Weekly Notes: Small Upgrades, Loud Lessons &lpar;Week 6, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-small-upgrades-loud-lessons-week-6-2026/)
 - [Don’t Do This: How I Accidentally Simulated Attacker Cleanup](https://www.kylereddoch.me/blog/dont-do-this-how-i-accidentally-simulated-attacker-cleanup/)
-- [Making SIEM Useful: How It Works, What It Does, and Why You Should Care](https://www.kylereddoch.me/blog/making-siem-useful-how-it-works-what-it-does-and-why-you-should-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

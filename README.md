@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Notes: Big Comfort Upgrades and a Useful Little Script &lpar;Week 8, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-big-comfort-upgrades-and-a-useful-little-script-week-8-2026/)
-- [Fighting the PUP Wave: A Practical PowerShell Cleanup Workflow for MSPs](https://www.kylereddoch.me/blog/fighting-the-pup-wave-a-practical-powershell-cleanup-workflow-for-msps/)
-- [Weekly Notes: WFH Mode, Olympics Nights, and F1 Is Back &lpar;Week 7, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-wfh-mode-olympics-nights-and-f1-is-back-week-7-2026/)
-- [Goodbye, Ring. I&#39;m Not Buying Into Your Mass Surveillance.](https://www.kylereddoch.me/blog/goodbye-ring-im-not-buying-into-your-mass-surveillance/)
-- [Weekly Notes: Small Upgrades, Loud Lessons &lpar;Week 6, 2026&rpar;](https://www.kylereddoch.me/blog/weekly-notes-small-upgrades-loud-lessons-week-6-2026/)
+- [Network diagrams are boring until you need one](https://www.kylereddoch.me/blog/network-diagrams-are-boring-until-you-need-one/)
+- [New Contacts and New Corners &lpar;Week 11, 2026&rpar;](https://www.kylereddoch.me/blog/new-contacts-and-new-corners-week-11-2026/)
+- [The Cisco SD-WAN Story Is Bigger Than Cisco](https://www.kylereddoch.me/blog/the-cisco-sd-wan-story-is-bigger-than-cisco/)
+- [The Network Edge Cleanup Most Teams Cannot Keep Putting Off](https://www.kylereddoch.me/blog/the-network-edge-cleanup-most-teams-cannot-keep-putting-off/)
+- [Your Help Desk Is Now Part of the Attack Surface](https://www.kylereddoch.me/blog/your-help-desk-is-now-part-of-the-attack-surface/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

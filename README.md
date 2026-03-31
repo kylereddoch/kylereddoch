@@ -87,10 +87,10 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clearer Views, Unexpected Turns &lpar;Week 13, 2026&rpar;](https://www.kylereddoch.me/blog/clearer-views-unexpected-turns-week-13-2026/)
 - [Why Trakt Is Still My Home Base for Movies and TV](https://www.kylereddoch.me/blog/why-trakt-is-still-my-home-base-for-movies-and-tv/)
 - [The FCC’s Router Crackdown Shouldn’t Surprise Anyone in Cybersecurity](https://www.kylereddoch.me/blog/the-fccs-router-crackdown-shouldnt-surprise-anyone-in-cybersecurity/)
 - [As a Cybersecurity Professional, I Think Proton’s Born Private Campaign is a Smart Move](https://www.kylereddoch.me/blog/as-a-cybersecurity-professional-i-think-protons-born-private-campaign-is-a-smart-move/)
-- [New Glasses, New Network, Final Stretch &lpar;Week 12, 2026&rpar;](https://www.kylereddoch.me/blog/new-glasses-new-network-final-stretch-week-12-2026/)
 - [Network diagrams are boring until you need one](https://www.kylereddoch.me/blog/network-diagrams-are-boring-until-you-need-one/)
 <!-- BLOG-POST-LIST:END -->
 

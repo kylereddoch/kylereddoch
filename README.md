@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Biggest Cybersecurity Risk for SMBs Still Isn’t the Fancy Stuff](https://www.kylereddoch.me/blog/the-biggest-cybersecurity-risk-for-smbs-still-isnt-the-fancy-stuff/)
 - [I Believe in Human Websites. I Still Care About Polish](https://www.kylereddoch.me/blog/i-believe-in-human-websites-i-still-care-about-polish/)
 - [Clearer Views, Unexpected Turns &lpar;Week 13, 2026&rpar;](https://www.kylereddoch.me/blog/clearer-views-unexpected-turns-week-13-2026/)
 - [Why Trakt Is Still My Home Base for Movies and TV](https://www.kylereddoch.me/blog/why-trakt-is-still-my-home-base-for-movies-and-tv/)
 - [The FCC’s Router Crackdown Shouldn’t Surprise Anyone in Cybersecurity](https://www.kylereddoch.me/blog/the-fccs-router-crackdown-shouldnt-surprise-anyone-in-cybersecurity/)
-- [As a Cybersecurity Professional, I Think Proton’s Born Private Campaign is a Smart Move](https://www.kylereddoch.me/blog/as-a-cybersecurity-professional-i-think-protons-born-private-campaign-is-a-smart-move/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

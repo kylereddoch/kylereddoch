@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Retro Garden, My New Eleventy Starter Theme](https://www.kylereddoch.me/blog/introducing-retro-garden-my-new-eleventy-starter-theme/)
 - [Building More Than Blog Posts](https://www.kylereddoch.me/blog/building-more-than-blog-posts/)
 - [Why I’m Building More Intentionally Online, and I’d Love to Have You Along](https://www.kylereddoch.me/blog/why-im-building-more-intentionally-online-and-id-love-to-have-you-along/)
 - [Russia’s Router Campaign Should Be a Wake-Up Call for Every Office](https://www.kylereddoch.me/blog/russias-router-campaign-should-be-a-wake-up-call-for-every-office/)
 - [I Built an Eleventy Plugin for Sharing Posts to Mastodon](https://www.kylereddoch.me/blog/i-built-an-eleventy-plugin-for-sharing-posts-to-mastodon/)
-- [A New Look, a Quiet Weekend, and a Full Heart &lpar;Week 14, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-14-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

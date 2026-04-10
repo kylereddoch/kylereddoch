@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’s WireGuard and VeraCrypt Lockout Is Bigger Than a Support Failure](https://www.kylereddoch.me/blog/microsofts-wireguard-and-veracrypt-lockout-is-bigger-than-a-support-failure/)
 - [Introducing Retro Garden, My New Eleventy Starter Theme](https://www.kylereddoch.me/blog/introducing-retro-garden-my-new-eleventy-starter-theme/)
 - [Building More Than Blog Posts](https://www.kylereddoch.me/blog/building-more-than-blog-posts/)
 - [Why I’m Building More Intentionally Online, and I’d Love to Have You Along](https://www.kylereddoch.me/blog/why-im-building-more-intentionally-online-and-id-love-to-have-you-along/)
 - [Russia’s Router Campaign Should Be a Wake-Up Call for Every Office](https://www.kylereddoch.me/blog/russias-router-campaign-should-be-a-wake-up-call-for-every-office/)
-- [I Built an Eleventy Plugin for Sharing Posts to Mastodon](https://www.kylereddoch.me/blog/i-built-an-eleventy-plugin-for-sharing-posts-to-mastodon/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

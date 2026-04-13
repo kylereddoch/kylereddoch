@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shipping Fast and Catching My Breath &lpar;Week 15, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-15-2026/)
+- [AI Is Not the Reason an MSP Succeeds, But It May Decide Which Ones Pull Ahead](https://www.kylereddoch.me/blog/ai-is-not-the-reason-an-msp-succeeds-but-it-may-decide-which-ones-pull-ahead/)
 - [Catppuccin Complete UI for Mastodon 2.0](https://www.kylereddoch.me/blog/catppuccin-complete-ui-for-mastodon-20/)
 - [Microsoft’s WireGuard and VeraCrypt Lockout Is Bigger Than a Support Failure](https://www.kylereddoch.me/blog/microsofts-wireguard-and-veracrypt-lockout-is-bigger-than-a-support-failure/)
 - [Introducing Retro Garden, My New Eleventy Starter Theme](https://www.kylereddoch.me/blog/introducing-retro-garden-my-new-eleventy-starter-theme/)
-- [Building More Than Blog Posts](https://www.kylereddoch.me/blog/building-more-than-blog-posts/)
-- [Why I’m Building More Intentionally Online, and I’d Love to Have You Along](https://www.kylereddoch.me/blog/why-im-building-more-intentionally-online-and-id-love-to-have-you-along/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

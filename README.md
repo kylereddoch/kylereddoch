@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s Codex Security and GPT-5.4-Cyber Could Be a Big Deal for Real-World Defenders](https://www.kylereddoch.me/blog/openais-codex-security-and-gpt-54-cyber-could-be-a-big-deal-for-real-world-defenders/)
 - [Stress Awareness Month: Helping Cybersecurity and IT Go From Burnout to Balance](https://www.kylereddoch.me/blog/stress-awareness-month-helping-cybersecurity-and-it-go-from-burnout-to-balance/)
 - [Shipping Fast and Catching My Breath &lpar;Week 15, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-15-2026/)
 - [AI Is Not the Reason an MSP Succeeds, But It May Decide Which Ones Pull Ahead](https://www.kylereddoch.me/blog/ai-is-not-the-reason-an-msp-succeeds-but-it-may-decide-which-ones-pull-ahead/)
 - [Catppuccin Complete UI for Mastodon 2.0](https://www.kylereddoch.me/blog/catppuccin-complete-ui-for-mastodon-20/)
-- [Microsoft’s WireGuard and VeraCrypt Lockout Is Bigger Than a Support Failure](https://www.kylereddoch.me/blog/microsofts-wireguard-and-veracrypt-lockout-is-bigger-than-a-support-failure/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Does Not Have a Specialization Problem. It Has a Context Problem](https://www.kylereddoch.me/blog/cybersecurity-does-not-have-a-specialization-problem-it-has-a-context-problem/)
 - [Secure Browsers Push Zero Trust Past the Login Screen](https://www.kylereddoch.me/blog/secure-browsers-push-zero-trust-past-the-login-screen/)
 - [OpenAI’s Codex Security and GPT-5.4-Cyber Could Be a Big Deal for Real-World Defenders](https://www.kylereddoch.me/blog/openais-codex-security-and-gpt-54-cyber-could-be-a-big-deal-for-real-world-defenders/)
 - [Stress Awareness Month: Helping Cybersecurity and IT Go From Burnout to Balance](https://www.kylereddoch.me/blog/stress-awareness-month-helping-cybersecurity-and-it-go-from-burnout-to-balance/)
 - [Shipping Fast and Catching My Breath &lpar;Week 15, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-15-2026/)
-- [AI Is Not the Reason an MSP Succeeds, But It May Decide Which Ones Pull Ahead](https://www.kylereddoch.me/blog/ai-is-not-the-reason-an-msp-succeeds-but-it-may-decide-which-ones-pull-ahead/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

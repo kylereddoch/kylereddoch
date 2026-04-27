@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CybersecKyle Security How-To Series: Everyday Defense &lpar;Part 6&rpar; - Backups That Actually Restore](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-everyday-defense-part-6-backups-that-actually-restore/)
 - [Reset, Recovery, and Real Life &lpar;Weeks 16 &amp; 17, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-16-17-2026/)
 - [Vibe Coding Has a Security Problem, and Shipping Code You Do Not Understand Is Not a Strategy](https://www.kylereddoch.me/blog/vibe-coding-has-a-security-problem-and-shipping-code-you-do-not-understand-is-not-a-strategy/)
 - [Cybersecurity Does Not Have a Specialization Problem. It Has a Context Problem](https://www.kylereddoch.me/blog/cybersecurity-does-not-have-a-specialization-problem-it-has-a-context-problem/)
 - [Secure Browsers Push Zero Trust Past the Login Screen](https://www.kylereddoch.me/blog/secure-browsers-push-zero-trust-past-the-login-screen/)
-- [OpenAI’s Codex Security and GPT-5.4-Cyber Could Be a Big Deal for Real-World Defenders](https://www.kylereddoch.me/blog/openais-codex-security-and-gpt-54-cyber-could-be-a-big-deal-for-real-world-defenders/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

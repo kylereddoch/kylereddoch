@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [F1 is back](https://www.kylereddoch.me/notes/f1-is-back/)
 - [Testing quick post on notes](https://www.kylereddoch.me/notes/testing-quick-post-on-notes/)
 - [Living Off the Land Attacks Are a Reminder That Trust Is an Attack Surface](https://www.kylereddoch.me/blog/living-off-the-land-attacks-are-a-reminder-that-trust-is-an-attack-surface/)
 - [CybersecKyle Security How-To Series: Everyday Defense &lpar;Part 6&rpar; - Backups That Actually Restore](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-everyday-defense-part-6-backups-that-actually-restore/)
 - [Reset, Recovery, and Real Life &lpar;Weeks 16 &amp; 17, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-16-17-2026/)
-- [Vibe Coding Has a Security Problem, and Shipping Code You Do Not Understand Is Not a Strategy](https://www.kylereddoch.me/blog/vibe-coding-has-a-security-problem-and-shipping-code-you-do-not-understand-is-not-a-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

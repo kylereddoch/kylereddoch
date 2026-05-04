@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating Blog Posts to Mastodon From My Website](https://www.kylereddoch.me/blog/automating-blog-posts-to-mastodon-from-my-website/)
+- [Adding Quick Notes to My Website](https://www.kylereddoch.me/blog/adding-quick-notes-to-my-website/)
 - [I got way too much sun Saturday](https://www.kylereddoch.me/notes/i-got-way-too-much-sun-saturday/)
 - [I Think Apple Finally Made a School Laptop That Makes Sense](https://www.kylereddoch.me/blog/i-think-apple-finally-made-a-school-laptop-that-makes-sense/)
 - [F1 is back](https://www.kylereddoch.me/notes/f1-is-back/)
-- [Testing quick post on notes](https://www.kylereddoch.me/notes/testing-quick-post-on-notes/)
-- [Living Off the Land Attacks Are a Reminder That Trust Is an Attack Surface](https://www.kylereddoch.me/blog/living-off-the-land-attacks-are-a-reminder-that-trust-is-an-attack-surface/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

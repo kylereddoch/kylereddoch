@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Don’t Write About Every Cybersecurity Story That Breaks](https://www.kylereddoch.me/blog/why-i-dont-write-about-every-cybersecurity-story-that-breaks/)
 - [Microsoft Says It’s “By Design.” Edge’s Plaintext Password Behavior Is Still a Security Problem](https://www.kylereddoch.me/blog/microsoft-says-its-by-design-edges-plaintext-password-behavior-is-still-a-security-problem/)
 - [Claude’s Chrome Extension Flaw Shows Why Agentic Browsing Needs Real Guardrails](https://www.kylereddoch.me/blog/claudes-chrome-extension-flaw-shows-why-agentic-browsing-needs-real-guardrails/)
 - [Chrome’s Silent Gemini Nano Download Has a Consent Problem](https://www.kylereddoch.me/blog/chromes-silent-gemini-nano-download-has-a-consent-problem/)
 - [Catppuccin Complete UI for Mastodon Now Supports GlitchSoc](https://www.kylereddoch.me/blog/catppuccin-complete-ui-for-mastodon-now-supports-glitchsoc/)
-- [A Medal, a Sunburn, and a Bachelor’s Degree &lpar;Week 18, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-18-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

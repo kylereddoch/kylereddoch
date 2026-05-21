@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic AI Is Security&#39;s Next Blind Spot Because It Can Act](https://www.kylereddoch.me/blog/agentic-ai-is-securitys-next-blind-spot-because-it-can-act/)
 - [A Texas Tech Graduation, Hot Chicken, and a Busy Family Week &lpar;Week 20, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-20-2026/)
 - [Heat, Healing, and Home Lab Progress &lpar;Week 19, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-19-2026/)
 - [Why I Don’t Write About Every Cybersecurity Story That Breaks](https://www.kylereddoch.me/blog/why-i-dont-write-about-every-cybersecurity-story-that-breaks/)
 - [Microsoft Says It’s “By Design.” Edge’s Plaintext Password Behavior Is Still a Security Problem](https://www.kylereddoch.me/blog/microsoft-says-its-by-design-edges-plaintext-password-behavior-is-still-a-security-problem/)
-- [Claude’s Chrome Extension Flaw Shows Why Agentic Browsing Needs Real Guardrails](https://www.kylereddoch.me/blog/claudes-chrome-extension-flaw-shows-why-agentic-browsing-needs-real-guardrails/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

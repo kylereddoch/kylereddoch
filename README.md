@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Passkeys Are Better Than Passwords, but They Are Not a Silver Bullet](https://www.kylereddoch.me/blog/passkeys-are-better-than-passwords-but-they-are-not-a-silver-bullet/)
 - [Tennis Tryouts, Security Signals, and a Canadian Grand Prix &lpar;Week 21, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-21-2026/)
 - [Finding the Real Drive Behind a Windows \Device\HarddiskX\DRX Alert](https://www.kylereddoch.me/blog/find-actual-drive-behind-windows-harddisk-error/)
 - [Security Signal Weekly: May 16-22, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-may-16-22-2026/)
 - [Improving My RSS Feed and Making It More Human Readable](https://www.kylereddoch.me/blog/improving-my-rss-feed-and-making-it-more-human-readable/)
-- [Agentic AI Is Security&#39;s Next Blind Spot Because It Can Act](https://www.kylereddoch.me/blog/agentic-ai-is-securitys-next-blind-spot-because-it-can-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

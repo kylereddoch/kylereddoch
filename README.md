@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Signal Weekly: May 30-June 5, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-may-30-june-5-2026/)
 - [Shadow AI Is the New Shadow IT, but Blocking It Won&#39;t Work](https://www.kylereddoch.me/blog/shadow-ai-is-the-new-shadow-it-but-blocking-it-wont-work/)
 - [&quot;Patch Faster&quot; Is Not a Strategy Anymore](https://www.kylereddoch.me/blog/patch-faster-is-not-a-strategy-anymore/)
 - [A Long Weekend, Summer Sleep-Ins, and a Hard Drive Mystery &lpar;Week 22, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-22-2026/)
 - [CybersecKyle Security How-To Series: Home Network and Devices, Part 1 - Router Sanity Check and Guest Wi-Fi](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-home-network-and-devices-part-1-router-sanity-check-and-guest-wi-fi/)
-- [Security Signal Weekly: May 23-29, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-may-23-29-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

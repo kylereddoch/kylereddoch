@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Pretty Boring Week &lpar;Week 23, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-23-2026/)
+- [Siri AI Is Not Just Smarter. It Is More Powerful, and That Changes the Risk Model](https://www.kylereddoch.me/blog/siri-ai-is-not-just-smarter-it-is-more-powerful-and-that-changes-the-risk-model/)
 - [Apple&#39;s AI Can Now Change Your Passwords. What Could Possibly Go Wrong?](https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/)
 - [The macOS 27 Golden Gate wallpaper looks so good](https://www.kylereddoch.me/notes/macos-27-golden-gate-wallpaper/)
 - [CybersecKyle Security How-To Series: Home Network and Devices, Part 2 - Windows 11 and macOS Baselines You Can Live With](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-home-network-and-devices-part-2-windows-11-and-macos-baselines-you-can-live-with/)
-- [Evening without the kiddo](https://www.kylereddoch.me/notes/evening-without-the-kiddo/)
-- [Security Signal Weekly: May 30-June 5, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-may-30-june-5-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

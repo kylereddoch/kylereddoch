@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Signal Weekly: June 6-12, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-june-6-12-2026/)
+- [Introducing EmojiCodec, a Bidirectional Emoji Converter for VS Code](https://www.kylereddoch.me/blog/introducing-emojicodec-a-bidirectional-emoji-converter-for-vs-code/)
+- [When Siri Helps During Calls, Scammers May Benefit Too](https://www.kylereddoch.me/blog/when-siri-helps-during-calls-scammers-may-benefit-too/)
 - [AI Is Exposing the Operational Debt Inside MSP Security Stacks](https://www.kylereddoch.me/blog/ai-is-exposing-the-operational-debt-inside-msp-security-stacks/)
 - [Siri AI’s Biggest Feature Is Also Its Biggest Security Concern: Personal Context](https://www.kylereddoch.me/blog/siri-ais-biggest-feature-is-also-its-biggest-security-concern-personal-context/)
-- [The Next Prompt Injection Target Might Be Your iPhone](https://www.kylereddoch.me/blog/the-next-prompt-injection-target-might-be-your-iphone/)
-- [A Pretty Boring Week &lpar;Week 23, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-23-2026/)
-- [Siri AI Is Not Just Smarter. It Is More Powerful, and That Changes the Risk Model](https://www.kylereddoch.me/blog/siri-ai-is-not-just-smarter-it-is-more-powerful-and-that-changes-the-risk-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

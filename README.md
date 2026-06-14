@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [App Intents Are About to Matter More: Siri AI Expands the App Attack Surface](https://www.kylereddoch.me/blog/app-intents-are-about-to-matter-more-siri-ai-expands-the-app-attack-surface/)
 - [The Fable and Mythos Ban Is a Warning About AI Export Controls](https://www.kylereddoch.me/blog/the-fable-and-mythos-ban-is-a-warning-about-ai-export-controls/)
 - [Describe a Shortcut, Create a Risk: The Security Side of AI-Built Automations](https://www.kylereddoch.me/blog/describe-a-shortcut-create-a-risk-the-security-side-of-ai-built-automations/)
 - [Security Signal Weekly: June 6-12, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-june-6-12-2026/)
 - [Introducing EmojiCodec, a Bidirectional Emoji Converter for VS Code](https://www.kylereddoch.me/blog/introducing-emojicodec-a-bidirectional-emoji-converter-for-vs-code/)
-- [When Siri Helps During Calls, Scammers May Benefit Too](https://www.kylereddoch.me/blog/when-siri-helps-during-calls-scammers-may-benefit-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

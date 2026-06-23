@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hard News, Convention Weekend, and a New Apple Watch &lpar;Week 25, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-25-2026/)
+- [CybersecKyle Security How-To Series: Home Network and Devices, Part 3 - Safe File Storage with Encryption and Snapshots](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-home-network-and-devices-part-3-safe-file-storage-with-encryption-and-snapshots/)
 - [Before Siri AI Hits Work Devices, Businesses Need an Apple Intelligence Policy](https://www.kylereddoch.me/blog/before-siri-ai-hits-work-devices-businesses-need-an-apple-intelligence-policy/)
 - [Help Me Make This Blog Better](https://www.kylereddoch.me/blog/help-me-make-this-blog-better/)
 - [Security Signal Weekly: June 13-19, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-june-13-19-2026/)
-- [AI Comes to Home Security Cameras, and Metadata Becomes the New Privacy Problem](https://www.kylereddoch.me/blog/ai-comes-to-home-security-cameras-and-metadata-becomes-the-new-privacy-problem/)
-- [Apple Just Put Better AI Image Tools in Everyone’s Pocket. Trust Gets Harder From Here](https://www.kylereddoch.me/blog/apple-just-put-better-ai-image-tools-in-everyones-pocket-trust-gets-harder-from-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

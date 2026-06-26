@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Signal Weekly: June 20-26, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-june-20-26-2026/)
 - [AI Made the Call, but Your Company Still Owns the Failure](https://www.kylereddoch.me/blog/ai-made-the-call-but-your-company-still-owns-the-failure/)
 - [CybersecKyle Security How-To Series: Home Network and Devices, Part 4 - IoT Quarantine and DNS Choices](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-home-network-and-devices-part-4-iot-quarantine-and-dns-choices/)
 - [The Gatekeeping Problem in IT and Cybersecurity Hiring](https://www.kylereddoch.me/blog/the-gatekeeping-problem-in-it-and-cybersecurity-hiring/)
 - [Hard News, Convention Weekend, and a New Apple Watch &lpar;Week 25, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-25-2026/)
-- [CybersecKyle Security How-To Series: Home Network and Devices, Part 3 - Safe File Storage with Encryption and Snapshots](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-home-network-and-devices-part-3-safe-file-storage-with-encryption-and-snapshots/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

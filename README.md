@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Personal Tech Stack Needs an Admin, Even If That Admin Is You](https://www.kylereddoch.me/blog/your-personal-tech-stack-needs-an-admin-even-if-that-admin-is-you/)
 - [Security Signal Weekly: June 27-July 3, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-june-27-july-3-2026/)
 - [CybersecKyle Security How-To Series: Home Network and Devices, Part 6 - Privacy Tune Up That Is Not Tedious](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-home-network-and-devices-part-6-privacy-tune-up-that-is-not-tedious/)
 - [The small stuff still counts](https://www.kylereddoch.me/notes/the-small-stuff-still-counts/)
 - [CybersecKyle Security How-To Series: Home Network and Devices, Part 5 - Passwordless Sign In with Passkeys and Keys](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-home-network-and-devices-part-5-passwordless-sign-in-with-passkeys-and-keys/)
-- [Keeping Things Moving, Even When the Week Felt Heavy &lpar;Week 26, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-26-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

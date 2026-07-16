@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CybersecKyle Security How-To Series: Power User and Small Team, Part 4 - Light Self Hosting Behind a Reverse Proxy](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-power-user-and-small-team-part-4-light-self-hosting-behind-a-reverse-proxy/)
+- [Tech Support Is Mostly Trust Support](https://www.kylereddoch.me/blog/tech-support-is-mostly-trust-support/)
 - [A Quiet, Hot Week &lpar;Week 28, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-28-2026/)
 - [CybersecKyle Security How-To Series: Power User and Small Team, Part 3 - Secrets Management 101 for Side Projects](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-power-user-and-small-team-part-3-secrets-management-101-for-side-projects/)
 - [July 2026](https://www.kylereddoch.me/now/now-july-2026/)
-- [A quick note about how I use AI](https://www.kylereddoch.me/notes/how-i-use-ai/)
-- [Waze Terms Update: What It Means for Location Privacy](https://www.kylereddoch.me/blog/waze-terms-update-what-it-means-for-location-privacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

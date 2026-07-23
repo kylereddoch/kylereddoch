@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CybersecKyle Security How-To Series: Power User and Small Team, Part 6 - Travel Mode for Laptops and Phones](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-power-user-and-small-team-part-6-travel-mode-for-laptops-and-phones/)
 - [CybersecKyle Security How-To Series: Power User and Small Team, Part 5 - Security Logging at Home](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-power-user-and-small-team-part-5-security-logging-at-home/)
 - [New Apple Gear, App Plans, and Getting Road-Trip Ready &lpar;Week 29, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-29-2026/)
 - [Security Signal Weekly: July 11-17, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-july-11-17-2026/)
 - [Tech Support Is Mostly Trust Support](https://www.kylereddoch.me/blog/tech-support-is-mostly-trust-support/)
-- [CybersecKyle Security How-To Series: Power User and Small Team, Part 4 - Light Self Hosting Behind a Reverse Proxy](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-power-user-and-small-team-part-4-light-self-hosting-behind-a-reverse-proxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

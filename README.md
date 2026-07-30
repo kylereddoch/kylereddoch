@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CybersecKyle Security How-To Series: Blue Team Fundamentals, Part 2 - macOS Baseline with Profiles and Audit Basics](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-blue-team-fundamentals-part-2-macos-baseline-with-profiles-and-audit-basics/)
+- [Security Signal Weekly: July 18-24, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-july-18-24-2026/)
 - [Walking the Stage and a Full San Antonio Trip &lpar;Week 30, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-30-2026/)
 - [CybersecKyle Security How-To Series: Blue Team Fundamentals, Part 1 - Windows Workstation Baseline with Defender and ASR Rules](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-blue-team-fundamentals-part-1-windows-workstation-baseline-with-defender-and-asr-rules/)
 - [CybersecKyle Security How-To Series: Power User and Small Team, Part 6 - Travel Mode for Laptops and Phones](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-power-user-and-small-team-part-6-travel-mode-for-laptops-and-phones/)
-- [CybersecKyle Security How-To Series: Power User and Small Team, Part 5 - Security Logging at Home](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-power-user-and-small-team-part-5-security-logging-at-home/)
-- [New Apple Gear, App Plans, and Getting Road-Trip Ready &lpar;Week 29, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-29-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

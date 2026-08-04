@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Newsletter, Daddy-Daughter Day, and Too Much Heat &lpar;Week 31, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-31-2026/)
 - [Security Signal Weekly: July 25-31, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-july-25-31-2026/)
 - [Introducing The Defender’s Dispatch](https://www.kylereddoch.me/blog/introducing-the-defenders-dispatch/)
 - [CybersecKyle Security How-To Series: Blue Team Fundamentals, Part 2 - macOS Baseline with Profiles and Audit Basics](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-blue-team-fundamentals-part-2-macos-baseline-with-profiles-and-audit-basics/)
 - [Security Signal Weekly: July 18-24, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-july-18-24-2026/)
-- [Walking the Stage and a Full San Antonio Trip &lpar;Week 30, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-30-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

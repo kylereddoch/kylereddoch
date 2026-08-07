@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s iCloud Private Relay Isn&#39;t Really That Private](https://www.kylereddoch.me/blog/apples-icloud-private-relay-isnt-really-that-private/)
 - [CybersecKyle Security How-To Series: Blue Team Fundamentals, Part 4 - Threat Modeling a Small Target](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-blue-team-fundamentals-part-4-threat-modeling-a-small-target/)
 - [CybersecKyle Security How-To Series: Blue Team Fundamentals, Part 3 - Vulnerability Scanning with Real Triage](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-blue-team-fundamentals-part-3-vulnerability-scanning-with-real-triage/)
 - [Building a Newsletter, Daddy-Daughter Day, and Too Much Heat &lpar;Week 31, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-31-2026/)
 - [Security Signal Weekly: July 25-31, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-july-25-31-2026/)
-- [Introducing The Defender’s Dispatch](https://www.kylereddoch.me/blog/introducing-the-defenders-dispatch/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

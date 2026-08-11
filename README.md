@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CybersecKyle Security How-To Series: Blue Team Fundamentals, Part 5 - First Response at Home](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-blue-team-fundamentals-part-5-first-response-at-home/)
 - [I Built ReelArrange to Get Downloads Ready for Jellyfin](https://www.kylereddoch.me/blog/i-built-reelarrange-to-get-downloads-ready-for-jellyfin/)
 - [Security Signal Weekly: August 1-7, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-august-1-7-2026/)
 - [Apple&#39;s iCloud Private Relay Isn&#39;t Really That Private](https://www.kylereddoch.me/blog/apples-icloud-private-relay-isnt-really-that-private/)
 - [CybersecKyle Security How-To Series: Blue Team Fundamentals, Part 4 - Threat Modeling a Small Target](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-blue-team-fundamentals-part-4-threat-modeling-a-small-target/)
-- [CybersecKyle Security How-To Series: Blue Team Fundamentals, Part 3 - Vulnerability Scanning with Real Triage](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-blue-team-fundamentals-part-3-vulnerability-scanning-with-real-triage/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

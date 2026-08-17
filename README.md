@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [That Hotel Wi-Fi Password Does Not Make the Network Safe](https://www.kylereddoch.me/blog/that-hotel-wi-fi-password-does-not-make-the-network-safe/)
 - [Security Signal Weekly: August 8-14, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-august-8-14-2026/)
 - [CybersecKyle Security How-To Series: Blue Team Fundamentals, Part 6 - SIEM-Lite with a Few Useful Alerts](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-blue-team-fundamentals-part-6-siem-lite-with-a-few-useful-alerts/)
 - [Building My Jellyfin Server, Releasing New Projects, and Escaping the Heat &lpar;Week 32, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-32-2026/)
 - [I Brought RipFoundry to Windows](https://www.kylereddoch.me/blog/i-brought-ripfoundry-to-windows/)
-- [I Built RipFoundry for Linux to Get DVDs Into Jellyfin](https://www.kylereddoch.me/blog/i-built-ripfoundry-for-linux-to-get-dvds-into-jellyfin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

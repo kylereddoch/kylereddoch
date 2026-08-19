@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Model Is Not the Security Boundary: How to Secure AI Workflows](https://www.kylereddoch.me/blog/the-model-is-not-the-security-boundary-how-to-secure-ai-workflows/)
 - [Tuning My Jellyfin Tools, Hanging My Degree, and Back-to-School Shopping &lpar;Week 33, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-33-2026/)
 - [CybersecKyle Security How-To Series: Light Offensive to Think Defensively, Part 1 - Build a Safe Lab with Snapshots](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-light-offensive-to-think-defensively-part-1-build-a-safe-lab-with-snapshots/)
 - [That Hotel Wi-Fi Password Does Not Make the Network Safe](https://www.kylereddoch.me/blog/that-hotel-wi-fi-password-does-not-make-the-network-safe/)
 - [Security Signal Weekly: August 8-14, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-august-8-14-2026/)
-- [CybersecKyle Security How-To Series: Blue Team Fundamentals, Part 6 - SIEM-Lite with a Few Useful Alerts](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-blue-team-fundamentals-part-6-siem-lite-with-a-few-useful-alerts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

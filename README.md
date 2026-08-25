@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CybersecKyle Security How-To Series: Light Offensive to Think Defensively, Part 3 - Recon and Password Attack Theory Inside the Lab](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-light-offensive-to-think-defensively-part-3-recon-and-password-attack-theory-inside-the-lab/)
 - [I Understand Why MacStories Returned to X, but Not How It Happened](https://www.kylereddoch.me/blog/i-understand-why-macstories-returned-to-x-but-not-how-it-happened/)
 - [Security Signal Weekly: August 15-21, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-august-15-21-2026/)
 - [CybersecKyle Security How-To Series: Light Offensive to Think Defensively, Part 2 - Phishing Simulation to Study Prompts and Controls](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-light-offensive-to-think-defensively-part-2-phishing-simulation-to-study-prompts-and-controls/)
 - [The Model Is Not the Security Boundary: How to Secure AI Workflows](https://www.kylereddoch.me/blog/the-model-is-not-the-security-boundary-how-to-secure-ai-workflows/)
-- [Tuning My Jellyfin Tools, Hanging My Degree, and Back-to-School Shopping &lpar;Week 33, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-33-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

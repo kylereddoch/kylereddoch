@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Signal Weekly: August 22-28, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-august-22-28-2026/)
 - [August 2026](https://www.kylereddoch.me/blog/august-2026/)
 - [CybersecKyle Security How-To Series: Light Offensive to Think Defensively, Part 4 - From Findings to Fixes with a Short Report](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-light-offensive-to-think-defensively-part-4-from-findings-to-fixes-with-a-short-report/)
 - [The Patch Window Has Collapsed. Defenders Need to Change Now](https://www.kylereddoch.me/blog/the-patch-window-has-collapsed-defenders-need-to-change-now/)
 - [Shipping Three Project Updates, Back to School, and Done With This Heat &lpar;Week 34, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-34-2026/)
-- [CybersecKyle Security How-To Series: Light Offensive to Think Defensively, Part 3 - Recon and Password Attack Theory Inside the Lab](https://www.kylereddoch.me/blog/cyberseckyle-security-how-to-series-light-offensive-to-think-defensively-part-3-recon-and-password-attack-theory-inside-the-lab/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

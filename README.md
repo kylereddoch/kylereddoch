@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Signal Weekly: September 12-18, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-september-12-18-2026/)
 - [From the Field: Investigating an Unauthorized ScreenConnect Session](https://www.kylereddoch.me/blog/from-the-field-investigating-an-unauthorized-screenconnect-session/)
 - [A Certification Does Not Make a Security Analyst Incident-Ready](https://www.kylereddoch.me/blog/a-certification-does-not-make-a-security-analyst-incident-ready/)
 - [I Shipped My First App, Introduced RelayByte, and Let Apple Tempt Me &lpar;Week 37, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-37-2026/)
 - [Security Signal Weekly: September 5-11, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-september-5-11-2026/)
-- [The N-central Exploits Are an MSP Vendor-Risk Test](https://www.kylereddoch.me/blog/the-n-central-exploits-are-an-msp-vendor-risk-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

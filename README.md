@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Connected Cars Have an Access Problem That Outlasts the Sale](https://www.kylereddoch.me/blog/connected-cars-have-an-access-problem-that-outlasts-the-sale/)
+- [An Interesting Investigation, More Boxes, and Jellyfin Is Back &lpar;Week 38, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-38-2026/)
 - [Security Signal Weekly: September 12-18, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-september-12-18-2026/)
 - [From the Field: Investigating an Unauthorized ScreenConnect Session](https://www.kylereddoch.me/blog/from-the-field-investigating-an-unauthorized-screenconnect-session/)
 - [A Certification Does Not Make a Security Analyst Incident-Ready](https://www.kylereddoch.me/blog/a-certification-does-not-make-a-security-analyst-incident-ready/)
-- [I Shipped My First App, Introduced RelayByte, and Let Apple Tempt Me &lpar;Week 37, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-37-2026/)
-- [Security Signal Weekly: September 5-11, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-september-5-11-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

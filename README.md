@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Customer Isn&#39;t Always Right About IT](https://www.kylereddoch.me/blog/the-customer-isnt-always-right-about-it/)
+- [Okta&#39;s AI Agent Push Puts IAM to a Harder Test](https://www.kylereddoch.me/blog/oktas-ai-agent-push-puts-iam-to-a-harder-test/)
 - [Connected Cars Have an Access Problem That Outlasts the Sale](https://www.kylereddoch.me/blog/connected-cars-have-an-access-problem-that-outlasts-the-sale/)
 - [An Interesting Investigation, More Boxes, and Jellyfin Is Back &lpar;Week 38, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-38-2026/)
 - [Security Signal Weekly: September 12-18, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-september-12-18-2026/)
-- [From the Field: Investigating an Unauthorized ScreenConnect Session](https://www.kylereddoch.me/blog/from-the-field-investigating-an-unauthorized-screenconnect-session/)
-- [A Certification Does Not Make a Security Analyst Incident-Ready](https://www.kylereddoch.me/blog/a-certification-does-not-make-a-security-analyst-incident-ready/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

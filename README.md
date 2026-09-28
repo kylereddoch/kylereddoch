@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Website Design, App Work, and Much-Needed Rain &lpar;Week 39, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-39-2026/)
+- [Microsoft 365 Tenant Migrations Need an MSP Plan Beyond Email](https://www.kylereddoch.me/blog/microsoft-365-tenant-migrations-need-an-msp-plan-beyond-email/)
 - [Security Signal Weekly: September 19-25, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-september-19-25-2026/)
 - [Pumpkin Pie Frappe](https://www.kylereddoch.me/notes/pumpkin-pie-frappe/)
 - [Better CVE Data Should Mean Less Guesswork for Defenders](https://www.kylereddoch.me/blog/better-cve-data-should-mean-less-guesswork-for-defenders/)
-- [The Customer Isn&#39;t Always Right About IT](https://www.kylereddoch.me/blog/the-customer-isnt-always-right-about-it/)
-- [Okta&#39;s AI Agent Push Puts IAM to a Harder Test](https://www.kylereddoch.me/blog/oktas-ai-agent-push-puts-iam-to-a-harder-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

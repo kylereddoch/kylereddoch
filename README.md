@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Signal Weekly: October 3-9, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-october-3-9-2026/)
 - [Cyber Risk Quantification: A Security Budget You Can Defend](https://www.kylereddoch.me/blog/cyber-risk-quantification-a-security-budget-you-can-defend/)
 - [Trayage on Product Hunt, Drift Is Live, and a Very Busy Week &lpar;Week 40, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-40-2026/)
 - [Security Signal Weekly: September 26-October 2, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-september-26-october-2-2026/)
 - [Shadow AI Puts MSP Client Data Boundaries to the Test](https://www.kylereddoch.me/blog/shadow-ai-puts-msp-client-data-boundaries-to-the-test/)
-- [Eavesdropping Does Not Require Breaking Encryption](https://www.kylereddoch.me/blog/eavesdropping-does-not-require-breaking-encryption/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

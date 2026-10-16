@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Signal Weekly: October 10-16, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-october-10-16-2026/)
 - [Buildside, Trayage in the Mac App Store, and a Needed Break &lpar;Week 41, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-41-2026/)
 - [Enzo Reader Review: Catching Up on Feedbin in ChatGPT](https://www.kylereddoch.me/blog/enzo-reader-feedbin-chatgpt-review/)
 - [Security Signal Weekly: October 3-9, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-october-3-9-2026/)
 - [Cyber Risk Quantification: A Security Budget You Can Defend](https://www.kylereddoch.me/blog/cyber-risk-quantification-a-security-budget-you-can-defend/)
-- [Trayage on Product Hunt, Drift Is Live, and a Very Busy Week &lpar;Week 40, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-40-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

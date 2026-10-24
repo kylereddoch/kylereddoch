@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My iPhone Duo Preorder and the Best Buy Launch-Day Shit Show](https://www.kylereddoch.me/blog/iphone-duo-best-buy-preorder-launch-day/)
 - [Security Signal Weekly: October 17-23, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-october-17-23-2026/)
 - [Client Case Study: Tracing a Suspicious Download After Quarantine](https://www.kylereddoch.me/blog/client-case-study-tracing-a-suspicious-download-after-quarantine/)
 - [Security Signal Weekly: October 10-16, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-october-10-16-2026/)
 - [Buildside, Trayage in the Mac App Store, and a Needed Break &lpar;Week 41, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-41-2026/)
-- [Enzo Reader Review: Catching Up on Feedbin in ChatGPT](https://www.kylereddoch.me/blog/enzo-reader-feedbin-chatgpt-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

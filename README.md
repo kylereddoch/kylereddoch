@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making My Website Fit the iPhone Duo](https://www.kylereddoch.me/blog/making-my-website-fit-the-iphone-duo/)
 - [A Real Microsoft Sign-in Page Can Still Be Phishing: What MSPs Should Know About MadApe](https://www.kylereddoch.me/blog/microsoft-365-device-code-phishing-madape-msp/)
 - [A Preorder Mess, a Sunday iPhone Duo, and Some Actual Work &lpar;Week 43, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-43-2026/)
 - [GO Club Review: Why I Keep Tracking Steps and Water Together](https://www.kylereddoch.me/blog/go-club-steps-water-iphone-duo-review/)
 - [My iPhone Duo Preorder and the Best Buy Launch-Day Shit Show](https://www.kylereddoch.me/blog/iphone-duo-best-buy-preorder-launch-day/)
-- [Security Signal Weekly: October 17-23, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-october-17-23-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

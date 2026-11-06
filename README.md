@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cassette Player Review: Bringing the Tape Deck to the iPhone Duo](https://www.kylereddoch.me/blog/cassette-player-review/)
+- [TypeDraw Review: The iPhone Duo Becomes a Pocket Notebook](https://www.kylereddoch.me/blog/typedraw-notebook-review/)
 - [Rolling Out Conditional Access Without Creating Tomorrow&#39;s Support Queue](https://www.kylereddoch.me/blog/conditional-access-rollout-msp-checklist/)
 - [Duo Fun, Another App Project, and Cackles &lpar;Week 44, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-44-2026/)
 - [LXD and MicroCloud Certificate Bypass: What Administrators Should Check Now](https://www.kylereddoch.me/blog/lxd-microcloud-certificate-bypass-msp/)
-- [Making My Website Fit the iPhone Duo](https://www.kylereddoch.me/blog/making-my-website-fit-the-iphone-duo/)
-- [A Real Microsoft Sign-in Page Can Still Be Phishing: What MSPs Should Know About MadApe](https://www.kylereddoch.me/blog/microsoft-365-device-code-phishing-madape-msp/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Showcase Review: A Movie Night Companion for the iPhone Duo](https://www.kylereddoch.me/blog/showcase-movie-tv-tracker-review/)
 - [Security Signal Weekly: October 31-November 6, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-october-31-november-6-2026/)
 - [MoneyCoach Review: A Wallet That Opens With the iPhone Duo](https://www.kylereddoch.me/blog/moneycoach-budget-planner-review/)
 - [Lume Review: Turning the iPhone Duo Into a Kitchen Companion](https://www.kylereddoch.me/blog/lume-recipe-manager-review/)
 - [Cassette Player Review: Bringing the Tape Deck to the iPhone Duo](https://www.kylereddoch.me/blog/cassette-player-review/)
-- [TypeDraw Review: The iPhone Duo Becomes a Pocket Notebook](https://www.kylereddoch.me/blog/typedraw-notebook-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365’s Global Outage: What Happened and What It Means for IT](https://www.kylereddoch.me/blog/microsoft-365-global-outage-business-schools-msps/)
 - [Quarantine Is a Starting Point, Not a Closed Security Ticket](https://www.kylereddoch.me/blog/endpoint-quarantine-investigation-checklist-msp/)
 - [Ending The Defender’s Dispatch](https://www.kylereddoch.me/notes/ending-the-defenders-dispatch/)
 - [SonicWall&#39;s SAML VPN Bypass: The Questions MSPs Need to Answer](https://www.kylereddoch.me/blog/sonicwall-sslvpn-saml-bypass-msp-verification/)
 - [Showcase Review: A Movie Night Companion for the iPhone Duo](https://www.kylereddoch.me/blog/showcase-movie-tv-tracker-review/)
-- [Security Signal Weekly: October 31-November 6, 2026](https://www.kylereddoch.me/blog/security-signal-weekly-october-31-november-6-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

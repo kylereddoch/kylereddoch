@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Outlook Spoofing Advisory Isn&#39;t a Complete Incident Story](https://www.kylereddoch.me/blog/outlook-spoofing-advisory-msp-verification/)
 - [Duo Fun, Client Work, and a Dispatch Goodbye &lpar;Weeks 45 &amp; 46, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-45-46-2026/)
 - [Microsoft 365’s Global Outage: What Happened and What It Means for IT](https://www.kylereddoch.me/blog/microsoft-365-global-outage-business-schools-msps/)
 - [Quarantine Is a Starting Point, Not a Closed Security Ticket](https://www.kylereddoch.me/blog/endpoint-quarantine-investigation-checklist-msp/)
 - [Ending The Defender’s Dispatch](https://www.kylereddoch.me/notes/ending-the-defenders-dispatch/)
-- [SonicWall&#39;s SAML VPN Bypass: The Questions MSPs Need to Answer](https://www.kylereddoch.me/blog/sonicwall-sslvpn-saml-bypass-msp-verification/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)

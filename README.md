@@ -87,11 +87,11 @@ npx kylereddoch
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When the Security Agent Goes Quiet, Your Dashboard Needs an Exception](https://www.kylereddoch.me/blog/inactive-edr-agents-visibility-exceptions-msp/)
 - [Black Friday Prep and a Good Kind of Busy &lpar;Week 47, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-47-2026/)
 - [An Outlook Spoofing Advisory Isn&#39;t a Complete Incident Story](https://www.kylereddoch.me/blog/outlook-spoofing-advisory-msp-verification/)
 - [Duo Fun, Client Work, and a Dispatch Goodbye &lpar;Weeks 45 &amp; 46, 2026&rpar;](https://www.kylereddoch.me/notes/2026/week-45-46-2026/)
 - [Microsoft 365’s Global Outage: What Happened and What It Means for IT](https://www.kylereddoch.me/blog/microsoft-365-global-outage-business-schools-msps/)
-- [Quarantine Is a Starting Point, Not a Closed Security Ticket](https://www.kylereddoch.me/blog/endpoint-quarantine-investigation-checklist-msp/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.kylereddoch.me/blog/)
